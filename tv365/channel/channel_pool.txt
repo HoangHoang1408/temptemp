@@ -1,0 +1,251 @@
+{'template': 'mở {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'mở kênh {channel_name}', 'intent': 'mo_truc_tiep'}
+{'template': '{channel_name}', 'intent': 'mo_truc_tiep'}
+{'template': 'lịch chiếu {channel_name} {ngày} là gì?', 'intent': 'lich_phat_song'}
+{'template': 'xem lịch phát sóng {channel_name} {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'mở {channel_name} vào {giờ} giờ', 'intent': 'mo_truc_tiep'}
+{'template': 'kênh {channel_name} ngày mai', 'intent': 'lich_phat_song'}
+{'template': 'lịch chiếu {channel_name} vào {giờ} {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'cho xem {channel_name} ngày {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'lúc nào có {channel_name} phát sóng?', 'intent': 'lich_phat_song'}
+{'template': 'mở trực tiếp kênh {channel_name}', 'intent': 'mo_truc_tiep'}
+{'template': 'kênh {channel_name} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'cho xem {channel_name} vào lúc {giờ} ngày {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'mở {channel_name} vào {giờ} ngày {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'kênh {channel_name} ngày mai là gì?', 'intent': 'lich_phat_song'}
+{'template': 'mở {channel_name} ngày {ngày} vào {giờ}', 'intent': 'mo_truc_tiep'}
+{'template': 'có {channel_name} vào {giờ} giờ không?', 'intent': 'lich_phat_song'}
+{'template': 'tôi muốn xem {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'tôi muốn xem {channel_name}', 'intent': 'mo_truc_tiep'}
+{'template': 'hiển thị lịch phát sóng {channel_name} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'mở {channel_name} lúc {giờ}', 'intent': 'mo_truc_tiep'}
+{'template': 'kênh {channel_name} hôm nay', 'intent': 'lich_phat_song'}
+{'template': 'đưa tôi đến {channel_name} ngay bây giờ', 'intent': 'mo_truc_tiep'}
+{'template': 'gửi tôi đến {channel_name} ngày {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'Xem lịch phát sóng của {channel_name} ngày {ngày} là gì?', 'intent': 'lich_phat_song'}
+{'template': 'Thông tin về {channel_name} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'Có phát sóng kênh {channel_name} vào lúc {giờ} không?', 'intent': 'mo_truc_tiep'}
+{'template': 'Cho biết lịch chiếu của {channel_name} vào ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'Kênh {channel_name} vào thời gian {giờ} ngày {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'Mở ngay kênh {channel_name}', 'intent': 'mo_truc_tiep'}
+{'template': 'cho tôi biết lịch phát sóng của {channel_name} vào {giờ} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'những chương trình sẽ phát sóng trên {channel_name} vào {giờ} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'có gì trên {channel_name} lúc {giờ} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'tôi muốn biết chương trình phát sóng của {channel_name} vào {giờ} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'trên {channel_name} có gì hay không lúc {giờ} {ngày}?', 'intent': 'lich_phat_song'}
+{'template': 'tôi muốn xem {channel_name} vào {ngày} lúc {giờ}', 'intent': 'mo_truc_tiep'}
+{'template': 'đưa ra lịch phát sóng của {channel_name} vào {ngày} lúc {giờ}', 'intent': 'lich_phat_song'}
+{'template': 'mở kênh {channel_name} vào {ngày} lúc {giờ}', 'intent': 'mo_truc_tiep'}
+{'template': 'có gì đặc sắc trên {channel_name} vào {ngày} lúc {giờ} không?', 'intent': 'lich_phat_song'}
+{'template': 'trên {channel_name} có gì hay không?', 'intent': 'mo_truc_tiep'}
+{'template': 'cho tôi xem {channel_name}', 'intent': 'mo_truc_tiep'}
+{'template': 'tìm kiếm kênh {channel_name} vào {giờ} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'xem ngày mai có gì trên {channel_name} không?', 'intent': 'lich_phat_song'}
+{'template': 'thông tin kênh {channel_name} lúc {giờ} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'đưa tôi đến {channel_name} vào lúc {giờ}', 'intent': 'mo_truc_tiep'}
+{'template': 'tôi muốn xem {channel_name} vào {giờ}', 'intent': 'mo_truc_tiep'}
+{'template': 'lịch phát sóng của {channel_name} vào {giờ} {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'có gì đặc sắc trên {channel_name} vào {giờ} ngày {ngày}?', 'intent': 'lich_phat_song'}
+{'template': 'lịch phát sóng {channel_name} vào ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'cho xin lịch phát sóng của {channel_name} vào {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'kênh {channel_name} có phát sóng gì vào {giờ} ngày {ngày}?', 'intent': 'lich_phat_song'}
+{'template': 'trực tiếp {channel_name}', 'intent': 'mo_truc_tiep'}
+{'template': 'Xem lịch phát sóng {channel_name}', 'intent': 'lich_phat_song'}
+{'template': 'Lịch chiếu của {channel_name} vào {giờ} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'Trực tiếp {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'Đưa ra lịch phát sóng của {channel_name} vào lúc {giờ} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'có gì mới trên {channel_name} vào {giờ} {ngày} không?', 'intent': 'mo_truc_tiep'}
+{'template': 'khi nào có chương trình mới trên {channel_name}?', 'intent': 'mo_truc_tiep'}
+{'template': 'cho tôi biết lịch chiếu {channel_name} vào {ngày} {giờ}', 'intent': 'lich_phat_song'}
+{'template': 'đề nghị mở kênh {channel_name} lúc {giờ} ngày {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'cho tôi xem lịch chiếu {channel_name} vào ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'xem {channel_name} vào lúc {giờ} ngày {ngày} có gì đặc sắc không?', 'intent': 'mo_truc_tiep'}
+{'template': 'tôi muốn xem {channel_name} vào thứ {thu} lúc {giờ}', 'intent': 'mo_truc_tiep'}
+{'template': 'lịch phát sóng {channel_name} vào {ngày} có gì đáng chú ý?', 'intent': 'lich_phat_song'}
+{'template': 'mở kênh {channel_name} vào {ngày} có gì hot không?', 'intent': 'mo_truc_tiep'}
+{'template': 'khi nào có sự kiện đặc biệt trên {channel_name}?', 'intent': 'mo_truc_tiep'}
+{'template': 'tôi muốn xem {channel_name} vào {ngày} có gì đặc sắc?', 'intent': 'mo_truc_tiep'}
+{'template': 'cho tôi biết lịch chiếu {channel_name} vào {ngày} có gì thú vị?', 'intent': 'lich_phat_song'}
+{'template': 'có gì đặc biệt trên {channel_name} vào {giờ} ngày {ngày} không?', 'intent': 'mo_truc_tiep'}
+{'template': 'mở kênh {channel_name} lúc {giờ} ngày {ngày} có gì hot?', 'intent': 'mo_truc_tiep'}
+{'template': 'tôi muốn xem {channel_name} vào thứ {thu} lúc {giờ} có gì đặc sắc?', 'intent': 'mo_truc_tiep'}
+{'template': 'mở {channel_name} vào {ngày} lúc {giờ} có gì hay không?', 'intent': 'mo_truc_tiep'}
+{'template': 'xem lịch chiếu {channel_name} vào {ngày} có gì mới?', 'intent': 'lich_phat_song'}
+{'template': 'tôi muốn biết chương trình phát sóng của {channel_name} vào {ngày} có gì đặc biệt?', 'intent': 'lich_phat_song'}
+{'template': 'Lịch phát sóng {channel_name} vào {ngày} là gì?', 'intent': 'lich_phat_song'}
+{'template': 'Tôi muốn biết lịch chiếu của {channel_name} vào {ngày}.', 'intent': 'lich_phat_song'}
+{'template': 'Có gì đặc sắc trên kênh {channel_name} vào {giờ} ngày {ngày} không?', 'intent': 'mo_truc_tiep'}
+{'template': 'Khi nào có chương trình đặc biệt trên {channel_name} vào {giờ} ngày {ngày}?', 'intent': 'mo_truc_tiep'}
+{'template': 'Làm ơn mở kênh {channel_name} vào {giờ} ngày {ngày}.', 'intent': 'mo_truc_tiep'}
+{'template': 'trực tiếp kênh {channel_name} vào lúc {giờ} ngày {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'xem {channel_name} lúc {giờ} ngày {ngày} được không?', 'intent': 'mo_truc_tiep'}
+{'template': 'xin thông tin về kênh {channel_name} vào thời gian {giờ} ngày {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'cho tôi biết lịch chiếu {channel_name} vào ngày {ngày} là gì?', 'intent': 'lich_phat_song'}
+{'template': 'tôi muốn xem {channel_name} vào thời gian {giờ} ngày {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'có gì trên {channel_name} vào thời điểm {giờ} ngày {ngày} không?', 'intent': 'mo_truc_tiep'}
+{'template': 'kênh {channel_name} vào ngày {ngày} là gì?', 'intent': 'lich_phat_song'}
+{'template': 'Tôi muốn xem lịch phát sóng của {channel_name} vào {ngày} lúc {giờ}', 'intent': 'lich_phat_song'}
+{'template': 'Mở kênh {channel_name} lúc {giờ}', 'intent': 'mo_truc_tiep'}
+{'template': '{channel_name} là kênh gì vậy?', 'intent': 'mo_truc_tiep'}
+{'template': 'Mở {channel_name} ngay bây giờ', 'intent': 'mo_truc_tiep'}
+{'template': 'Lịch phát sóng {channel_name} hôm nay ra sao?', 'intent': 'lich_phat_song'}
+{'template': 'Kênh {channel_name} có gì hot vào lúc {giờ} giờ {ngày}?', 'intent': 'mo_truc_tiep'}
+{'template': 'Lịch phát sóng {channel_name} ngày mai là gì?', 'intent': 'lich_phat_song'}
+{'template': '{channel_name} có gì vào {giờ} giờ {ngày}?', 'intent': 'mo_truc_tiep'}
+{'template': 'Tìm kênh {channel_name} vào {giờ} giờ ngày {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'xem lịch phát sóng của kênh {channel_name}', 'intent': 'lich_phat_song'}
+{'template': 'Xem lịch phát sóng', 'intent': 'lich_phat_song'}
+{'template': 'Khi nào có lịch phát sóng mới?', 'intent': 'lich_phat_song'}
+{'template': 'Lịch phát sóng ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'Cần biết lịch phát sóng {channel_name} vào {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'Lịch phát sóng của tất cả các kênh', 'intent': 'lich_phat_song'}
+{'template': 'Tôi muốn xem {channel_name} vào lúc {giờ} giờ ngày {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'Khi nào phát sóng {channel_name} ngày {ngày}?', 'intent': 'lich_phat_song'}
+{'template': 'Xem lịch chiếu {channel_name} lúc {giờ} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'Lịch phát sóng của {channel_name} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'Kênh {channel_name} phát sóng vào thời điểm nào ngày {ngày}?', 'intent': 'lich_phat_song'}
+{'template': 'mở trực tiếp kênh {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'mình muốn biết {channel_name} có phát sóng vào {ngày} không', 'intent': 'lich_phat_song'}
+{'template': 'xem {channel_name} ngày {ngày} lúc {giờ}', 'intent': 'mo_truc_tiep'}
+{'template': 'tôi muốn xem {channel_name} vào {ngày} có được không?', 'intent': 'mo_truc_tiep'}
+{'template': 'có kênh {channel_name} nào phát sóng vào {giờ} {ngày} không?', 'intent': 'mo_truc_tiep'}
+{'template': 'đưa ra lịch chiếu của {channel_name} vào ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'kênh {channel_name} vào {ngày} có phát sóng không?', 'intent': 'mo_truc_tiep'}
+{'template': 'cho mình biết lịch chiếu {channel_name} vào {ngày}', 'intent': 'lich_phat_song'}
+{'template': '{channel_name} cho xem ngày {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'mở kênh CNN', 'intent': 'mo_truc_tiep'}
+{'template': 'Mở trực tiếp kênh {channel_name} vào lúc {giờ} giờ {phút} ngày {ngày}.', 'intent': 'mo_truc_tiep'}
+{'template': 'Tôi muốn xem {channel_name} vào lúc {giờ} giờ.', 'intent': 'mo_truc_tiep'}
+{'template': 'Mở kênh {channel_name} vào {ngày} lúc {giờ}:{phút}.', 'intent': 'mo_truc_tiep'}
+{'template': 'Mở trực tiếp {channel_name} lúc {giờ} giờ vào {ngày}.', 'intent': 'mo_truc_tiep'}
+{'template': 'Tôi muốn xem {channel_name} lúc {giờ}:{phút} ngày {ngày}.', 'intent': 'mo_truc_tiep'}
+{'template': 'Cho xem {channel_name} lúc {giờ}:{phút} vào {ngày}.', 'intent': 'mo_truc_tiep'}
+{'template': 'Trực tiếp {channel_name} vào lúc {giờ}', 'intent': 'mo_truc_tiep'}
+{'template': 'Tìm {channel_name} lúc {giờ} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'Khi nào có lịch phát sóng của {channel_name}?', 'intent': 'lich_phat_song'}
+{'template': 'cập nhật lịch phát sóng {channel_name}', 'intent': 'lich_phat_song'}
+{'template': 'lịch phát sóng {channel_name} giờ {giờ}', 'intent': 'lich_phat_song'}
+{'template': 'Tìm kiếm thông tin về {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'Xem lịch phát sóng trên {channel_name} lúc {giờ} {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'Khi nào có chương trình trên {channel_name} vào {ngày}?', 'intent': 'lich_phat_song'}
+{'template': 'Có gì đặc sắc trên {channel_name} vào {ngày} không?', 'intent': 'lich_phat_song'}
+{'template': 'Tìm {channel_name} xem sao?', 'intent': 'mo_truc_tiep'}
+{'template': 'Cho tôi biết {channel_name} có gì đang phát sóng không?', 'intent': 'mo_truc_tiep'}
+{'template': 'Tìm {channel_name} lúc {giờ} {ngày} nhé.', 'intent': 'mo_truc_tiep'}
+{'template': 'Kênh {channel_name} vào ngày {ngày}, có gì đặc sắc không?', 'intent': 'lich_phat_song'}
+{'template': 'Tôi muốn biết lịch phát sóng của {channel_name} vào {ngày}.', 'intent': 'lich_phat_song'}
+{'template': 'xem ngay {channel_name}', 'intent': 'mo_truc_tiep'}
+{'template': 'lịch chiếu {channel_name} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'xem {channel_name} lúc nào?', 'intent': 'lich_phat_song'}
+{'template': 'có phải {channel_name} đang chiếu không?', 'intent': 'lich_phat_song'}
+{'template': 'lịch phát sóng {channel_name} lúc {giờ} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'Lịch chiếu của kênh {channel_name} ngày {ngày} là gì?', 'intent': 'lich_phat_song'}
+{'template': 'mở {channel_name} vào {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'lịch phát sóng của {channel_name}', 'intent': 'lich_phat_song'}
+{'template': 'xem lịch phát sóng vào ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'lịch phát sóng có gì vào {giờ} giờ ngày {ngày}?', 'intent': 'lich_phat_song'}
+{'template': 'Lịch phát sóng {channel_name} {ngày} vào lúc {giờ}.', 'intent': 'lich_phat_song'}
+{'template': 'Khi nào {channel_name} phát sóng vào {ngày}?', 'intent': 'lich_phat_song'}
+{'template': 'Lịch phát sóng của {channel_name} vào {ngày} {giờ}.', 'intent': 'lich_phat_song'}
+{'template': 'Có phát sóng gì trên {channel_name} vào {ngày} lúc {giờ} không?', 'intent': 'lich_phat_song'}
+{'template': 'Xem {channel_name} vào {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'Kênh {channel_name} có gì không?', 'intent': 'mo_truc_tiep'}
+{'template': 'Cho tôi biết về {channel_name} vào {ngày} lúc {giờ}.', 'intent': 'mo_truc_tiep'}
+{'template': 'Lịch chiếu {channel_name} vào {ngày} lúc {giờ}.', 'intent': 'lich_phat_song'}
+{'template': 'Tôi muốn biết lịch chiếu của {channel_name} ngày {ngày} vào {giờ}.', 'intent': 'lich_phat_song'}
+{'template': 'Tôi muốn theo dõi {channel_name} lúc {giờ} ngày {ngày}.', 'intent': 'mo_truc_tiep'}
+{'template': 'Kênh {channel_name} đang phát sóng gì lúc {giờ} ngày {ngày}?', 'intent': 'mo_truc_tiep'}
+{'template': 'bật {channel_name} ngay', 'intent': 'mo_truc_tiep'}
+{'template': 'cho xem {channel_name} ngay', 'intent': 'mo_truc_tiep'}
+{'template': 'đưa tôi đến {channel_name}', 'intent': 'mo_truc_tiep'}
+{'template': 'Xem kênh {channel_name} vào {ngày} vào lúc {giờ} giờ.', 'intent': 'mo_truc_tiep'}
+{'template': 'Tôi muốn xem {channel_name} có gì vào {ngày} lúc {giờ} giờ.', 'intent': 'mo_truc_tiep'}
+{'template': 'Cho tôi biết lịch phát sóng của {channel_name} vào {ngày} vào lúc {giờ} giờ.', 'intent': 'lich_phat_song'}
+{'template': 'Kênh {channel_name} có phát sóng gì vào lúc {giờ} giờ ngày {ngày} không?', 'intent': 'lich_phat_song'}
+{'template': 'Mở {channel_name} vào {ngày} lúc {giờ} giờ.', 'intent': 'mo_truc_tiep'}
+{'template': 'Tôi muốn biết chương trình nào đang chiếu trên {channel_name} vào lúc {giờ} giờ ngày {ngày}.', 'intent': 'lich_phat_song'}
+{'template': 'Xem lịch phát sóng của {channel_name} vào {ngày} lúc {giờ} giờ.', 'intent': 'lich_phat_song'}
+{'template': 'Trực tiếp {channel_name} vào {ngày} lúc {giờ} giờ.', 'intent': 'mo_truc_tiep'}
+{'template': 'Có gì hay trên {channel_name} vào {ngày} vào lúc {giờ} giờ không?', 'intent': 'mo_truc_tiep'}
+{'template': 'Tôi muốn xem kênh {channel_name} vào ngày {ngày}.', 'intent': 'mo_truc_tiep'}
+{'template': 'Tìm kênh {channel_name} lúc {giờ} {ngày}.', 'intent': 'mo_truc_tiep'}
+{'template': 'Mở trực tiếp {channel_name} lúc {giờ} {ngày} nhé.', 'intent': 'mo_truc_tiep'}
+{'template': 'cho tôi biết {channel_name} có phát sóng vào {ngày} không?', 'intent': 'mo_truc_tiep'}
+{'template': 'cho xem lịch phát sóng {channel_name} hôm nay', 'intent': 'lich_phat_song'}
+{'template': 'Lịch chiếu {channel_name} vào {ngày} có sự kiện gì lúc {giờ}?', 'intent': 'lich_phat_song'}
+{'template': 'mở {channel_name} vào {ngày} có được không?', 'intent': 'mo_truc_tiep'}
+{'template': 'tôi muốn xem {channel_name} lúc {giờ} có sự kiện gì không?', 'intent': 'mo_truc_tiep'}
+{'template': '{channel_name} vào {giờ} {ngày} có gì mới không?', 'intent': 'mo_truc_tiep'}
+{'template': 'Có gì hay trên {channel_name} lúc {giờ} {ngày} không?', 'intent': 'mo_truc_tiep'}
+{'template': 'Trực tiếp {channel_name} vào {giờ} {ngày} là gì?', 'intent': 'mo_truc_tiep'}
+{'template': 'xem ngay {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'Mở trực tiếp {channel_name} ngay bây giờ', 'intent': 'mo_truc_tiep'}
+{'template': 'tôi muốn biết lịch phát sóng của {channel_name} ngày mai', 'intent': 'lich_phat_song'}
+{'template': 'Cho xem lịch phát sóng {channel_name} vào {ngày} giờ {giờ}', 'intent': 'lich_phat_song'}
+{'template': 'Lịch phát sóng của {channel_name} có gì đặc sắc?', 'intent': 'lich_phat_song'}
+{'template': 'gửi tôi đến lịch phát sóng {channel_name} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'lịch trình của {channel_name} vào {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'đặt kênh {channel_name} ngay {giờ} vào {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'xem kênh {channel_name} vào {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'Tôi muốn xem kênh {channel_name}.', 'intent': 'mo_truc_tiep'}
+{'template': 'Xin mở {channel_name}.', 'intent': 'mo_truc_tiep'}
+{'template': 'Tôi muốn xem trực tiếp {channel_name} vào {giờ} {ngày}.', 'intent': 'mo_truc_tiep'}
+{'template': '{channel_name} vào ngày {ngày}, lịch phát sóng thế nào?', 'intent': 'lich_phat_song'}
+{'template': 'Kênh {channel_name} có gì hay vào {giờ} {ngày}?', 'intent': 'lich_phat_song'}
+{'template': 'trên {channel_name} có gì hay không lúc {giờ} {ngày}?', 'intent': 'mo_truc_tiep'}
+{'template': 'tìm {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': '{channel_name}', 'intent': 'mo_truc_tiep'}
+{'template': 'trên {channel_name} có gì hay không?', 'intent': 'mo_truc_tiep'}
+{'template': 'tôi muốn xem {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'lịch chiếu {channel_name} {ngày} là gì?', 'intent': 'lich_phat_song'}
+{'template': 'có gì đặc sắc trên {channel_name} vào {giờ} ngày {ngày}?', 'intent': 'lich_phat_song'}
+{'template': 'Cho xem lịch phát sóng {channel_name} vào {ngày} giờ {giờ}', 'intent': 'lich_phat_song'}
+{'template': 'xin thông tin về kênh {channel_name} vào thời gian {giờ} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'tôi muốn xem {channel_name} vào {ngày} lúc {giờ}', 'intent': 'mo_truc_tiep'}
+{'template': '{channel_name}', 'intent': 'mo_truc_tiep'}
+{'template': 'mở kênh {channel_name}', 'intent': 'mo_truc_tiep'}
+{'template': 'trên {channel_name} có gì hay không?', 'intent': 'mo_truc_tiep'}
+{'template': 'tìm {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'cho mình biết lịch chiếu {channel_name} vào {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'lịch chiếu {channel_name} vào {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'Xem kênh {channel_name} vào {ngày} vào lúc {giờ} giờ.', 'intent': 'mo_truc_tiep'}
+{'template': 'tôi muốn xem {channel_name}', 'intent': 'mo_truc_tiep'}
+{'template': 'mở {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'trực tiếp {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': '{channel_name}', 'intent': 'mo_truc_tiep'}
+{'template': 'tôi muốn xem {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'tìm {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'tôi muốn xem {channel_name} vào thứ {thu} lúc {giờ}', 'intent': 'mo_truc_tiep'}
+{'template': 'Tôi muốn xem kênh {channel_name}.', 'intent': 'mo_truc_tiep'}
+{'template': '{channel_name} vào {giờ} {ngày} có gì mới không?', 'intent': 'mo_truc_tiep'}
+{'template': 'xin thông tin về kênh {channel_name} vào thời gian {giờ} ngày {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'kênh {channel_name} ngày {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'tôi muốn xem {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'Xem lịch phát sóng', 'intent': 'lich_phat_song'}
+{'template': 'Lịch phát sóng {channel_name}', 'intent': 'lich_phat_song'}
+{'template': 'Cho tôi xem lịch phát sóng của {channel_name}', 'intent': 'lich_phat_song'}
+{'template': 'Có gì mới trên lịch phát sóng không?', 'intent': 'lich_phat_song'}
+{'template': 'Tôi muốn biết lịch phát sóng của {channel_name}', 'intent': 'lich_phat_song'}
+{'template': 'Lịch phát sóng vào thứ {thu}', 'intent': 'lich_phat_song'}
+{'template': 'Lịch phát sóng vào {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'Tìm hiểu về lịch phát sóng vào lúc {giờ} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'Tôi muốn xem {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'Mở {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'Tìm {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'Tôi muốn xem {channel_name}', 'intent': 'mo_truc_tiep'}
+{'template': 'Thông tin kênh {channel_name} lúc {giờ} ngày {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'Cho tôi biết lịch chiếu {channel_name} vào ngày {ngày} là gì?', 'intent': 'lich_phat_song'}
+{'template': 'Cho xin lịch phát sóng của {channel_name} vào {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'Tôi muốn xem kênh {channel_name}.', 'intent': 'mo_truc_tiep'}
+{'template': 'Cho xem lịch phát sóng {channel_name} hôm nay', 'intent': 'lich_phat_song'}
+{'template': 'Mở ngay kênh {channel_name}', 'intent': 'mo_truc_tiep'}
+{'template': 'trực tiếp {channel_name}', 'intent': 'mo_truc_tiep'}
+{'template': 'trên {channel_name} có gì hay không?', 'intent': 'mo_truc_tiep'}
+{'template': 'tôi muốn xem {channel_name}', 'intent': 'mo_truc_tiep'}
+{'template': 'tôi muốn xem {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'có gì trên {channel_name} lúc {giờ} ngày {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'lịch phát sóng {channel_name} lúc {giờ} ngày {ngày}', 'intent': 'lich_phat_song'}
+{'template': 'Mở trực tiếp {channel_name} lúc {giờ} giờ vào {ngày}.', 'intent': 'mo_truc_tiep'}
+{'template': 'tôi muốn xem {channel_name} lúc {giờ} {ngày}', 'intent': 'mo_truc_tiep'}
+{'template': 'có gì đặc sắc trên {channel_name} vào {ngày} lúc {giờ} không?', 'intent': 'mo_truc_tiep'}
+{'template': '{channel_name}', 'intent': 'mo_truc_tiep'}

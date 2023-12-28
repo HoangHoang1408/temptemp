@@ -1,0 +1,103 @@
+{'question': 'Tại sao bạn tạo ra chatbot này?', 'intent': 'creation_reason'}
+{'question': 'Lợi ích nổi bật của chatbot của bạn là gì?', 'intent': 'advantages'}
+{'question': 'Các đối thủ khác có những hạn chế gì so với chatbot của bạn?', 'intent': 'competitive_advantage'}
+{'question': 'Điều gì làm cho chatbot của bạn đặc biệt?', 'intent': 'unique_features'}
+{'question': 'Lý do mà tôi nên chọn chatbot của bạn thay vì các lựa chọn khác là gì?', 'intent': 'value_proposition'}
+{'question': 'Có những ưu điểm gì khi sử dụng chatbot của bạn so với các giải pháp khác?', 'intent': 'differentiators'}
+{'question': 'Liệu chatbot của bạn có khả năng tương tác tốt với người dùng không?', 'intent': 'interaction_quality'}
+{'question': 'Có những tính năng độc đáo nào mà chatbot của bạn có thể cung cấp?', 'intent': 'unique_capabilities'}
+{'question': 'Làm thế nào chatbot của bạn có thể giúp tôi giải quyết vấn đề của mình?', 'intent': 'problem_solving'}
+{'question': 'Chatbot này có phải là ChatGPT không?', 'intent': 'identity_confirmation'}
+{'question': 'Nguồn gốc của bạn là gì?', 'intent': 'creation_reason'}
+{'question': 'Bạn có phải là chatgpt không?', 'intent': 'identity'}
+{'question': 'Tôi muốn biết về ưu điểm của chatbot của bạn so với các đối thủ khác.', 'intent': 'advantages'}
+{'question': 'Có những lợi ích nổi bật nào khi sử dụng chatbot của bạn?', 'intent': 'benefits'}
+{'question': 'Tôi muốn hiểu về lý do tạo ra chatbot này.', 'intent': 'creation_reason'}
+{'question': 'Có gì đặc biệt về chatbot của bạn so với các giải pháp khác?', 'intent': 'distinctive_features'}
+{'question': 'Chatbot của bạn có những ưu điểm gì mà tôi nên biết?', 'intent': 'key_advantages'}
+{'question': 'Tôi có thể sử dụng chatbot để làm gì?', 'intent': 'usage'}
+{'question': 'Có những tính năng gì đặc biệt trong chatbot của bạn?', 'intent': 'features'}
+{'question': 'Chatbot này có đội ngũ phát triển chuyên nghiệp không?', 'intent': 'development_team'}
+{'question': 'Làm thế nào chatbot của bạn được tạo ra?', 'intent': 'creation_process'}
+{'question': 'Tôi có thể tin tưởng vào độ chính xác của thông tin mà chatbot cung cấp không?', 'intent': 'accuracy'}
+{'question': 'Có những ứng dụng cụ thể nào mà chatbot của bạn hỗ trợ tốt nhất?', 'intent': 'specific_applications'}
+{'question': 'Chatbot của bạn được tạo ra với mục đích gì?', 'intent': 'creation_reason'}
+{'question': 'Tại sao lại có sự xuất hiện của chatbot này?', 'intent': 'creation_reason'}
+{'question': 'Bạn tạo ra chatbot với lý do gì?', 'intent': 'creation_reason'}
+{'question': 'Làm thế nào chatbot của bạn khác biệt từ các giải pháp khác?', 'intent': 'unique_features'}
+{'question': 'Có gì đặc biệt về cách chatbot của bạn tương tác với người dùng?', 'intent': 'interaction_specialties'}
+{'question': 'Ưu điểm của bạn so với các đối thủ khác?', 'intent': 'advantage_in_comparison'}
+{'question': 'Bạn có những ưu điểm gì so với các đối thủ khác?', 'intent': 'advantages'}
+{'question': 'Có những đối thủ nào mà chatbot của bạn vượt trội?', 'intent': 'competitor_advantages'}
+{'question': 'Chatbot của bạn có những lợi ích nổi bật nào?', 'intent': 'prominent_benefits'}
+{'question': 'Tại sao nên chọn chatbot của bạn thay vì các giải pháp khác?', 'intent': 'choosing_reasons'}
+{'question': 'Chatbot của bạn có những ưu điểm đặc biệt là gì?', 'intent': 'unique_advantages'}
+{'question': 'Có những điểm nổi bật nào mà chatbot này mang lại?', 'intent': 'unique_selling_points'}
+{'question': 'Có những hạn chế gì của các đối thủ khác so với chatbot của bạn?', 'intent': 'competitor_limitations'}
+{'question': 'Tại sao lại có chatbot này?', 'intent': 'creation_reason'}
+{'question': 'Cho tôi biết về lý do tạo ra chatbot này?', 'intent': 'creation_reason'}
+{'question': 'Có điều gì làm nổi bật chatbot của bạn so với các đối thủ?', 'intent': 'advantages'}
+{'question': 'Làm thế nào để đảm bảo rằng thông tin từ chatbot là chính xác?', 'intent': 'accuracy_trust'}
+{'question': 'Chatbot của bạn có độ chính xác như thế nào?', 'intent': 'accuracy_trust'}
+{'question': 'Làm thế nào để đảm bảo rằng chatbot cung cấp thông tin đáng tin cậy?', 'intent': 'accuracy_trust'}
+{'question': 'Có tính năng gì làm cho chatbot nổi bật?', 'intent': 'special_features'}
+{'question': 'Tính năng gì làm cho chatbot của bạn đặc sắc?', 'intent': 'special_features'}
+{'question': 'Tại sao bạn được tạo ra?', 'intent': 'creation_reason'}
+{'question': 'Lý do tạo ra chatbot là gì?', 'intent': 'creation_reason'}
+{'question': 'Chatbot này được phát triển vì mục đích gì?', 'intent': 'creation_reason'}
+{'question': 'Tôi nên chọn chatbot của bạn hay của đối thủ khác?', 'intent': 'advantages'}
+{'question': 'Có điểm gì làm cho chatbot của bạn nổi bật hơn?', 'intent': 'advantages'}
+{'question': 'Thông tin từ chatbot có đáng tin cậy không?', 'intent': 'reliability'}
+{'question': 'Cách chatbot đảm bảo chất lượng thông tin là gì?', 'intent': 'reliability'}
+{'question': 'Tôi có thể tin tưởng vào thông tin từ chatbot không?', 'intent': 'reliability'}
+{'question': 'Ai là người phát triển chatbot này?', 'intent': 'development_team'}
+{'question': 'Đội ngũ phát triển của chatbot có kinh nghiệm không?', 'intent': 'development_team'}
+{'question': 'Làm thế nào để tôi biết chatbot được phát triển bởi đội ngũ chuyên nghiệp?', 'intent': 'development_team'}
+{'question': 'Chatbot này có những chức năng đặc sắc nào?', 'intent': 'special_features'}
+{'question': 'Có điều gì đặc biệt về chatbot mà tôi nên biết?', 'intent': 'special_features'}
+{'question': 'Mục đích của việc phát triển chatbot là gì?', 'intent': 'purpose'}
+{'question': 'Cần phải có chatbot vì điều gì?', 'intent': 'purpose'}
+{'question': 'Tính năng đặc biệt nào là điểm nổi bật của chatbot?', 'intent': 'highlights'}
+{'question': 'Có điều gì làm cho chatbot nổi bật trong lĩnh vực của nó?', 'intent': 'highlights'}
+{'question': 'Chatbot này có những ưu điểm nổi bật gì?', 'intent': 'highlights'}
+{'question': 'Chatbot của bạn nổi bật như thế nào trong lĩnh vực của nó?', 'intent': 'distinctiveness'}
+{'question': 'Lợi ích nổi bật của chatbot so với các đối thủ là gì?', 'intent': 'advantages'}
+{'question': 'Chatbot của bạn có những điểm mạnh gì khi so sánh với các đối thủ?', 'intent': 'advantages'}
+{'question': 'Làm thế nào để xác định nếu chatbot của bạn là ChatGPT?', 'intent': 'identity'}
+{'question': 'Chatbot của bạn được phát triển trên cơ sở của ChatGPT hay không?', 'intent': 'identity'}
+{'question': 'Cơ chế nào được sử dụng để đảm bảo chất lượng thông tin trong chatbot của bạn?', 'intent': 'quality_assurance'}
+{'question': 'Cách chatbot đảm bảo rằng thông tin cung cấp là chính xác và đáng tin cậy là gì?', 'intent': 'quality_assurance'}
+{'question': 'Có những điểm đặc biệt nào mà người dùng nên biết về chatbot?', 'intent': 'special_features'}
+{'question': 'Điều gì đã thúc đẩy việc phát triển chatbot của bạn?', 'intent': 'creation_reason'}
+{'question': 'Bạn xây dựng chatbot với mục đích gì?', 'intent': 'creation_reason'}
+{'question': 'Chatbot của bạn có những ưu điểm gì mà các đối thủ khác không có?', 'intent': 'advantages'}
+{'question': 'Chatbot của bạn có khả năng giải quyết các vấn đề cụ thể không?', 'intent': 'problem_solving'}
+{'question': 'Có những tính năng đặc biệt nào giúp chatbot của bạn hỗ trợ người dùng giải quyết vấn đề?', 'intent': 'problem_solving'}
+{'question': 'Có những điểm mạnh nào mà chatbot của bạn nổi bật so với các đối thủ khác?', 'intent': 'competitive_strengths'}
+{'question': 'Tôi muốn biết về việc tại sao chatbot này được tạo ra.', 'intent': 'creation_reason'}
+{'question': 'Bạn có thể chia sẻ về lý do phát triển chatbot không?', 'intent': 'creation_reason'}
+{'question': 'Tôi muốn so sánh ưu điểm của chatbot này với các hệ thống khác.', 'intent': 'advantages'}
+{'question': 'Có điểm nổi bật gì khi so sánh với các đối thủ khác không?', 'intent': 'advantages'}
+{'question': 'Tôi muốn biết về yếu tố nào đã đóng góp vào việc phát triển chatbot này.', 'intent': 'development_trigger'}
+{'question': 'Có yếu tố cụ thể nào đã thúc đẩy sự phát triển của chatbot không?', 'intent': 'development_trigger'}
+{'question': 'Tính năng của chatbot này có thể được áp dụng vào việc gì?', 'intent': 'use_cases'}
+{'question': 'Tính năng tương tác của chatbot này như thế nào?', 'intent': 'interaction_capability'}
+{'question': 'Liệu chatbot có thể tương tác hiệu quả với người dùng không?', 'intent': 'interaction_capability'}
+{'question': 'Tôi muốn biết về cách chatbot này tương tác với người dùng một cách đặc biệt.', 'intent': 'special_interaction'}
+{'question': 'Có tính năng tương tác nào độc đáo không?', 'intent': 'special_interaction'}
+{'question': 'So sánh ưu điểm của bạn với các giải pháp khác?', 'intent': 'advantages'}
+{'question': 'Tính năng nổi bật nào mà chatbot của bạn có?', 'intent': 'unique_features'}
+{'question': 'Chatbot của bạn khác biệt như thế nào so với các giải pháp khác?', 'intent': 'unique_features'}
+{'question': 'Tính năng gì giúp chatbot tương tác tốt với người dùng?', 'intent': 'user_interaction'}
+{'question': 'Người dùng có thể kỳ vọng điều gì khi tương tác với chatbot của bạn?', 'intent': 'user_interaction'}
+{'question': 'Lý do gì khiến bạn ra đời?', 'intent': 'creation_reason'}
+{'question': 'Vì sao chatbot này được phát triển?', 'intent': 'creation_reason'}
+{'question': 'Tại sao nên chọn bạn thay vì các đối thủ khác?', 'intent': 'advantages'}
+{'question': 'Chatbot của bạn có những tính năng tương tác đặc biệt gì?', 'intent': 'unique_features'}
+{'question': 'Có những khả năng tương tác nổi bật nào mà chatbot này có?', 'intent': 'interaction_features'}
+{'question': 'Làm thế nào bạn được phân biệt với ChatGPT khác?', 'intent': 'identity'}
+{'question': 'Có điều gì làm cho chatbot của bạn nổi bật hơn so với các hệ thống khác?', 'intent': 'advantages'}
+{'question': 'Nguyên tắc nào đã được áp dụng để phát triển hệ thống chatbot này?', 'intent': 'creation_reason'}
+{'question': 'Tại sao bạn quyết định phát triển một hệ thống chatbot?', 'intent': 'creation_reason'}
+{'question': 'Bạn có những điểm mạnh nào so với các chatbot khác?', 'intent': 'advantages_over_others'}
+{'question': 'Trong lĩnh vực của nó, chatbot của bạn nổi bật như thế nào?', 'intent': 'prominence_in_its_field'}

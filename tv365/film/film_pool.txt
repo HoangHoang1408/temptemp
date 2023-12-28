@@ -1,0 +1,209 @@
+{'template': 'phát {ten_phim}', 'intent': 'mo_phim'}
+{'template': '{ten_phim}', 'intent': 'mo_phim'}
+{'template': 'đưa tôi xem {ten_phim} được không', 'intent': 'mo_phim'}
+{'template': 'tôi muốn xem phim {ten_phim} của {ten_dien_vien}', 'intent': 'mo_phim'}
+{'template': 'có phim nào đang chiếu không', 'intent': 'tim_phim'}
+{'template': 'tìm phim {ten_phim}', 'intent': 'tim_phim'}
+{'template': 'tôi muốn tìm phim của {ten_dien_vien}', 'intent': 'tim_phim'}
+{'template': 'bạn có thể giới thiệu một bộ phim hay không', 'intent': 'tim_phim'}
+{'template': 'cho xin danh sách các bộ phim mới nhất', 'intent': 'tim_phim'}
+{'template': 'tìm phim có thể xem với gia đình', 'intent': 'tim_phim'}
+{'template': 'bạn có phim nào giống như {ten_phim} không', 'intent': 'tim_phim'}
+{'template': 'có phim gì hot trong tháng này không', 'intent': 'tim_phim'}
+{'template': 'cho tôi biết có phim gì mới không', 'intent': 'tim_phim'}
+{'template': 'Tôi cần tìm phim {the_loai_phim}', 'intent': 'tim_phim'}
+{'template': 'Tìm phim {the_loai_phim} có nội dung hay đi', 'intent': 'tim_phim'}
+{'template': 'Phim {ten_dien_vien} {ten_dao_dien}', 'intent': 'tim_phim'}
+{'template': 'Xem {ten_phim}', 'intent': 'mo_phim'}
+{'template': 'tìm phim {the_loai_phim} của {ten_dien_vien}', 'intent': 'tim_phim'}
+{'template': 'tìm phim {the_loai_phim} có diễn viên {ten_dien_vien}', 'intent': 'tim_phim'}
+{'template': 'Phim {ten_dien_vien} do {ten_dao_dien} đạo diễn', 'intent': 'tim_phim'}
+{'template': 'Có bộ phim nào mới không', 'intent': 'tim_phim'}
+{'template': 'Tìm phim {ten_phim} theo thể loại {the_loai_phim}', 'intent': 'tim_phim'}
+{'template': 'Xem phim {ten_phim} có thú vị không', 'intent': 'mo_phim'}
+{'template': 'Tôi cần gợi ý về phim, bạn có thể giúp không', 'intent': 'tim_phim'}
+{'template': 'Phim nào đang hot nhất hiện nay', 'intent': 'tim_phim'}
+{'template': 'phim của {ten_dien_vien} {thoi_gian}', 'intent': 'mo_phim'}
+{'template': 'Mở phim {ten_phim}', 'intent': 'mo_phim'}
+{'template': 'Mở trực tiếp phim', 'intent': 'mo_phim'}
+{'template': 'Phim {the_loai_phim} {thoi_gian}', 'intent': 'tim_phim'}
+{'template': 'Tôi muốn xem phim {the_loai_phim}', 'intent': 'tim_phim'}
+{'template': 'Tìm phim {the_loai_phim} thú vị', 'intent': 'tim_phim'}
+{'template': 'Tìm kiếm phim {ten_dien_vien} đang hot', 'intent': 'tim_phim'}
+{'template': 'Phim {ten_dien_vien} {ten_dao_dien} có gì mới không?', 'intent': 'tim_phim'}
+{'template': 'Tìm phim {the_loai_phim} hay nhất hiện nay', 'intent': 'tim_phim'}
+{'template': 'Tìm phim {the_loai_phim} mới nhất', 'intent': 'tim_phim'}
+{'template': 'Phim {ten_dien_vien} {thoi_gian} đáng xem không?', 'intent': 'tim_phim'}
+{'template': 'Có phim {the_loai_phim} nào hot không?', 'intent': 'tim_phim'}
+{'template': 'Tìm phim {the_loai_phim} phù hợp với gia đình', 'intent': 'tim_phim'}
+{'template': 'Phim {ten_dien_vien} nổi tiếng với ai đạo diễn?', 'intent': 'tim_phim'}
+{'template': 'Tìm phim {the_loai_phim} cho ngày cuối tuần', 'intent': 'tim_phim'}
+{'template': 'Phim {the_loai_phim} thích hợp cho trẻ em không?', 'intent': 'tim_phim'}
+{'template': 'Phim {ten_dien_vien} có phần nào kinh dị không?', 'intent': 'tim_phim'}
+{'template': 'Tìm phim {the_loai_phim} nhẹ nhàng', 'intent': 'tim_phim'}
+{'template': 'Có phim nào của {ten_dien_vien} đang chiếu không?', 'intent': 'tim_phim'}
+{'template': 'Phim của {ten_dien_vien} vào lúc {thoi_gian}', 'intent': 'mo_phim'}
+{'template': 'phim hành động mới nhất', 'intent': 'tim_phim'}
+{'template': 'Tìm phim kinh dị vào buổi tối', 'intent': 'tim_phim'}
+{'template': 'phim hoạt hình dành cho trẻ em', 'intent': 'tim_phim'}
+{'template': 'Tôi muốn xem phim của Leonardo DiCaprio', 'intent': 'tim_phim'}
+{'template': 'Tìm kiếm phim viễn tưởng mới', 'intent': 'tim_phim'}
+{'template': 'Phim có sự tham gia của Scarlett Johansson vào cuối tuần', 'intent': 'tim_phim'}
+{'template': 'Tìm phim lãng mạn để xem cùng người yêu', 'intent': 'tim_phim'}
+{'template': 'Phim hài nhẹ nhàng cho gia đình', 'intent': 'tim_phim'}
+{'template': 'Mở trực tiếp phim bom tấn', 'intent': 'mo_phim'}
+{'template': 'Tìm kiếm phim của Chris Hemsworth đang hot', 'intent': 'tim_phim'}
+{'template': 'Tôi cần tìm phim hoạt hình Pixar', 'intent': 'tim_phim'}
+{'template': 'Có phim nào mới của {the_loai_phim} không', 'intent': 'tim_phim'}
+{'template': 'Tôi muốn xem phim {ten_phim}', 'intent': 'mo_phim'}
+{'template': 'Có gì mới về phim {ten_dien_vien} không?', 'intent': 'tim_phim'}
+{'template': 'Tìm phim {ten_dien_vien} mới nhất', 'intent': 'tim_phim'}
+{'template': 'Phim {ten_dien_vien} đang được đánh giá cao không?', 'intent': 'tim_phim'}
+{'template': 'Có phim {the_loai_phim} nào mới ra mắt không?', 'intent': 'tim_phim'}
+{'template': 'Tôi muốn tìm phim {ten_phim} để xem', 'intent': 'tim_phim'}
+{'template': 'Phim {ten_phim} có phù hợp cho gia đình không?', 'intent': 'tim_phim'}
+{'template': 'Tìm phim {the_loai_phim} cho trẻ em', 'intent': 'tim_phim'}
+{'template': 'Mở trực tiếp phim {ten_phim}', 'intent': 'mo_phim'}
+{'template': 'Tìm phim {the_loai_phim} nào có nội dung hấp dẫn?', 'intent': 'tim_phim'}
+{'template': 'Cho tôi xem phim {the_loai_phim} của {ten_dien_vien}.', 'intent': 'tim_phim'}
+{'template': 'Đưa tôi xem phim {ten_phim} được không?', 'intent': 'mo_phim'}
+{'template': 'Tìm phim {the_loai_phim}', 'intent': 'tim_phim'}
+{'template': 'Tôi đang tìm phim {the_loai_phim} từ {thoi_gian}', 'intent': 'tim_phim'}
+{'template': 'Có phim nào mới của thể loại {the_loai_phim} không?', 'intent': 'tim_phim'}
+{'template': 'Hãy chỉ cho tôi phim đang hot nhất bây giờ', 'intent': 'tim_phim'}
+{'template': 'Tìm cho tôi phim {the_loai_phim}', 'intent': 'tim_phim'}
+{'template': 'Tôi muốn tìm phim có tên là {ten_phim}', 'intent': 'tim_phim'}
+{'template': 'Có phim hoạt hình nào dành cho trẻ em không?', 'intent': 'tim_phim'}
+{'template': 'Tìm kiếm ngay phim {ten_phim}', 'intent': 'tim_phim'}
+{'template': '{ten_dao_dien} làm phim {ten_phim}', 'intent': 'tim_phim'}
+{'template': 'Có phim nào mới ra mắt không', 'intent': 'tim_phim'}
+{'template': 'Phim hay của {ten_dien_vien} là gì', 'intent': 'tim_phim'}
+{'template': 'Bộ phim nào hot nhất hiện nay', 'intent': 'tim_phim'}
+{'template': 'Tìm phim {ten_phim} của {ten_dao_dien}', 'intent': 'tim_phim'}
+{'template': 'Phim {the_loai_phim} có rating cao nhất', 'intent': 'tim_phim'}
+{'template': 'Có phim gì mới cho mùa Giáng Sinh này không', 'intent': 'tim_phim'}
+{'template': 'Phim {ten_phim} có diễn xuất của {ten_dien_vien} như thế nào', 'intent': 'tim_phim'}
+{'template': '{ten_dien_vien} đóng phim {ten_phim}', 'intent': 'tim_phim'}
+{'template': 'phim {ten_phim} có nội dung gì', 'intent': 'tim_phim'}
+{'template': 'phim {ten_dien_vien} {ten_dao_dien} {thoi_gian}', 'intent': 'tim_phim'}
+{'template': '{ten_dao_dien} đạo diễn bộ phim nào hay nhất?', 'intent': 'tim_phim'}
+{'template': 'Phim {ten_phim} có phù hợp với mọi lứa tuổi không?', 'intent': 'tim_phim'}
+{'template': 'Tôi muốn xem phim {ten_phim} phát sóng vào thời gian nào?', 'intent': 'tim_phim'}
+{'template': 'Phim nào đang được đánh giá cao từ {thoi_gian} đến nay?', 'intent': 'tim_phim'}
+{'template': 'Tìm kiếm phim bom tấn của {ten_dien_vien} có gì mới?', 'intent': 'tim_phim'}
+{'template': 'Phim {ten_dien_vien} đã tham gia nào đáng xem không?', 'intent': 'tim_phim'}
+{'template': 'Mở phim {ten_phim} để xem ngay!', 'intent': 'mo_phim'}
+{'template': 'Phim {ten_phim} có phù hợp để xem cùng gia đình không?', 'intent': 'tim_phim'}
+{'template': 'Có phim {the_loai_phim} nào dành cho người lớn không?', 'intent': 'tim_phim'}
+{'template': 'Phim {the_loai_phim} của {ten_dien_vien} có gì hay không', 'intent': 'tim_phim'}
+{'template': 'Xem ngay {ten_phim}', 'intent': 'mo_phim'}
+{'template': 'Có phim nào đang hot không', 'intent': 'tim_phim'}
+{'template': 'Phim nào đang chiếu ở rạp?', 'intent': 'tim_phim'}
+{'template': 'Tìm phim {ten_phim} có phụ đề tiếng Việt', 'intent': 'tim_phim'}
+{'template': 'Gợi ý phim {the_loai_phim} mới nhất', 'intent': 'tim_phim'}
+{'template': 'Phim {ten_phim} có bao nhiêu tập?', 'intent': 'tim_phim'}
+{'template': 'Có phim nào hài hước không?', 'intent': 'tim_phim'}
+{'template': 'Tìm phim {ten_phim} nổi tiếng', 'intent': 'tim_phim'}
+{'template': 'Cho tôi biết nội dung của bộ phim {ten_phim}', 'intent': 'tim_phim'}
+{'template': '{ten_dien_vien} tham gia diễn xuất trong phim {ten_phim}', 'intent': 'tim_phim'}
+{'template': 'Bộ phim {ten_dien_vien} do đạo diễn {ten_dao_dien} làm chủ đạo', 'intent': 'tim_phim'}
+{'template': 'Có gợi ý nào cho phim {the_loai_phim} mới nhất không?', 'intent': 'tim_phim'}
+{'template': '{ten_phim} là một lựa chọn tốt không?', 'intent': 'tim_phim'}
+{'template': 'Điều gì đang hot nhất trong thế giới phim ngày nay?', 'intent': 'tim_phim'}
+{'template': '{ten_dao_dien} làm đạo diễn cho bộ phim nào được đánh giá cao nhất?', 'intent': 'tim_phim'}
+{'template': 'Tôi muốn mở trực tiếp phim', 'intent': 'mo_phim'}
+{'template': 'Tìm kiếm phim theo thể loại {the_loai_phim}', 'intent': 'tim_phim'}
+{'template': 'Có phim nào hay của {ten_dien_vien} không?', 'intent': 'tim_phim'}
+{'template': 'phim của {ten_dien_vien} đạo diễn {ten_dao_dien}', 'intent': 'tim_phim'}
+{'template': '{mo_phim} {ten_phim}', 'intent': 'mo_phim'}
+{'template': 'Tìm phim', 'intent': 'tim_phim'}
+{'template': 'Mở ngay phim {ten_phim}', 'intent': 'mo_phim'}
+{'template': 'Bật phim {ten_phim}', 'intent': 'mo_phim'}
+{'template': 'Chạy ngay {ten_phim}', 'intent': 'mo_phim'}
+{'template': 'Mở phim {ten_dao_dien} làm', 'intent': 'mo_phim'}
+{'template': 'Phát phim {ten_dien_vien}', 'intent': 'mo_phim'}
+{'template': 'Tìm phim mới', 'intent': 'tim_phim'}
+{'template': 'Tôi muốn xem phim {ten_dien_vien}', 'intent': 'mo_phim'}
+{'template': 'Phim {ten_dien_vien} ra mắt gần đây', 'intent': 'tim_phim'}
+{'template': 'phim của {ten_dien_vien}', 'intent': 'tim_phim'}
+{'template': 'Tìm phim {the_loai_phim} vui nhộn', 'intent': 'tim_phim'}
+{'template': 'Tìm phim {ten_phim} có thể xem cùng con cái', 'intent': 'tim_phim'}
+{'template': 'Phim {ten_phim} có bản động viên không?', 'intent': 'tim_phim'}
+{'template': 'phim {the_loai_phim} có nội dung hay không', 'intent': 'tim_phim'}
+{'template': 'Cho tôi xem {ten_phim}', 'intent': 'mo_phim'}
+{'template': 'Nội dung của phim {ten_phim} là gì', 'intent': 'tim_phim'}
+{'template': 'Mở trực tiếp phim {the_loai_phim}', 'intent': 'mo_phim'}
+{'template': 'Tìm phim {ten_phim} từ {thoi_gian} đến nay', 'intent': 'tim_phim'}
+{'template': 'Phim {the_loai_phim} nào đang hot?', 'intent': 'tim_phim'}
+{'template': 'Tìm phim {the_loai_phim} có sự tham gia của {ten_dien_vien}', 'intent': 'tim_phim'}
+{'template': 'Có phim nào hay không? Tìm phim {the_loai_phim}', 'intent': 'tim_phim'}
+{'template': 'Phim {ten_phim} của {ten_dao_dien} có gì hot?', 'intent': 'tim_phim'}
+{'template': 'Phim của {ten_dien_vien} vào thời gian nào', 'intent': 'tim_phim'}
+{'template': 'Phim {the_loai_phim} vào thời gian {thoi_gian}', 'intent': 'tim_phim'}
+{'template': 'Có phim mới nào không?', 'intent': 'tim_phim'}
+{'template': 'Tìm phim thuộc thể loại {the_loai_phim} vào thời gian {thoi_gian}', 'intent': 'tim_phim'}
+{'template': 'Tôi muốn xem phim ngay', 'intent': 'mo_phim'}
+{'template': '{ten_phim} có phải là lựa chọn tốt không?', 'intent': 'tim_phim'}
+{'template': 'Tôi muốn xem phim thuộc thể loại {the_loai_phim}', 'intent': 'mo_phim'}
+{'template': 'Có phim mới nào được ra mắt không?', 'intent': 'tim_phim'}
+{'template': 'phim {ten_dien_vien} của {the_loai_phim}', 'intent': 'tim_phim'}
+{'template': 'Có phim nào của {ten_dien_vien} đang phát sóng không?', 'intent': 'mo_phim'}
+{'template': 'Phim {ten_phim} có thuyết minh không', 'intent': 'mo_phim'}
+{'template': 'Mở trực tiếp phim {ten_phim} của {ten_dao_dien}', 'intent': 'mo_phim'}
+{'template': 'mở {ten_phim} cho tôi', 'intent': 'mo_phim'}
+{'template': 'Mở {ten_phim} lên', 'intent': 'mo_phim'}
+{'template': 'Tìm phim {the_loai_phim} cho tôi', 'intent': 'tim_phim'}
+{'template': 'Có phim gì mới không', 'intent': 'tim_phim'}
+{'template': '{ten_dien_vien} {ten_dao_dien} {thoi_gian} có phim nào không', 'intent': 'tim_phim'}
+{'template': 'mở {ten_phim} lên', 'intent': 'mo_phim'}
+{'template': 'Phát {ten_phim}', 'intent': 'mo_phim'}
+{'template': 'Phim {the_loai_phim} của {ten_dien_vien}', 'intent': 'tim_phim'}
+{'template': 'Tìm phim có sự tham gia của {ten_dien_vien}', 'intent': 'tim_phim'}
+{'template': 'Giới thiệu một bộ phim hay không', 'intent': 'tim_phim'}
+{'template': 'Phim {the_loai_phim} có nội dung hay đi', 'intent': 'tim_phim'}
+{'template': 'Xem phim của {ten_dien_vien}', 'intent': 'mo_phim'}
+{'template': 'Mở phim {ten_phim} ngay', 'intent': 'mo_phim'}
+{'template': 'Tìm và mở phim {the_loai_phim} của {ten_dien_vien}', 'intent': 'mo_phim'}
+{'template': 'Tôi muốn xem phim của {ten_dien_vien}', 'intent': 'mo_phim'}
+{'template': 'Tìm phim {the_loai_phim} có {ten_dien_vien}', 'intent': 'tim_phim'}
+{'template': 'Xem phim {ten_phim} ngay', 'intent': 'mo_phim'}
+{'template': 'Có phim nào hot không?', 'intent': 'tim_phim'}
+{'template': 'Cho xem bộ phim {ten_dien_vien} đóng vai chính', 'intent': 'mo_phim'}
+{'template': 'Tôi cần tìm phim của {ten_dao_dien} thời gian gần đây', 'intent': 'tim_phim'}
+{'template': 'Bộ phim {ten_dien_vien} ra mắt gần đây nhất', 'intent': 'tim_phim'}
+{'template': 'Phim {the_loai_phim} có diễn viên {ten_dien_vien}', 'intent': 'tim_phim'}
+{'template': 'Tìm bộ phim {ten_dien_vien} do {ten_dao_dien} làm chủ đạo', 'intent': 'tim_phim'}
+{'template': 'Tôi muốn biết phim đang hot nhất hiện nay', 'intent': 'tim_phim'}
+{'template': 'Cho tôi xem danh sách các phim mới ra mắt', 'intent': 'tim_phim'}
+{'template': 'xem {ten_phim}', 'intent': 'mo_phim'}
+{'template': 'Mở phim {ten_phim} cho tôi', 'intent': 'mo_phim'}
+{'template': 'xem Tenet', 'intent': 'mo_phim'}
+{'template': 'Inception', 'intent': 'mo_phim'}
+{'template': 'phim kinh dị của Brad Pitt', 'intent': 'tim_phim'}
+{'template': 'Tìm phim phù hợp với gia đình', 'intent': 'tim_phim'}
+{'template': 'Tôi muốn xem phim hoạt hình', 'intent': 'tim_phim'}
+{'template': 'bạn có phim nào giống như The Matrix không', 'intent': 'tim_phim'}
+{'template': 'Chạy ngay Joker', 'intent': 'mo_phim'}
+{'template': 'Tìm phim thuộc thể loại hài vào thời gian cuối tuần', 'intent': 'tim_phim'}
+{'template': 'Bật phim Parasite', 'intent': 'mo_phim'}
+{'template': 'Mở trực tiếp phim {ten_phim} lên', 'intent': 'mo_phim'}
+{'template': 'Tìm phim {ten_phim} có nội dung gì', 'intent': 'tim_phim'}
+{'template': '{ten_dien_vien} thủ vai chính trong phim nào?', 'intent': 'tim_phim'}
+{'template': 'Tìm phim của {ten_dien_vien} có sự tham gia của {ten_dao_dien} vào thời điểm {thoi_gian}.', 'intent': 'tim_phim'}
+{'template': 'Khi nào phát sóng phim {ten_phim}?', 'intent': 'tim_phim'}
+{'template': 'Tìm kiếm ngay phim {ten_phim} trong danh sách.', 'intent': 'tim_phim'}
+{'template': 'Xem {ten_phim} ngay.', 'intent': 'mo_phim'}
+{'template': 'Phát sóng phim của {ten_dien_vien} vào lúc {thoi_gian}.', 'intent': 'mo_phim'}
+{'template': 'Tìm phim do {ten_dien_vien} đóng và được đạo diễn bởi {ten_dao_dien}.', 'intent': 'tim_phim'}
+{'template': 'Mở {ten_phim} cho tôi.', 'intent': 'mo_phim'}
+{'template': 'Có phim nào mới không', 'intent': 'tim_phim'}
+{'template': 'Tôi muốn xem phim {ten_dien_vien} đóng', 'intent': 'tim_phim'}
+{'template': 'Tìm cho tôi phim {ten_phim}', 'intent': 'tim_phim'}
+{'template': 'Tìm phim thuộc thể loại {the_loai_phim}', 'intent': 'tim_phim'}
+{'template': 'Phim {ten_phim} của {ten_dao_dien}', 'intent': 'tim_phim'}
+{'template': 'Phim nào đang chiếu', 'intent': 'tim_phim'}
+{'template': 'Mở phim {ten_phim} lên', 'intent': 'mo_phim'}
+{'template': 'Xem phim {ten_phim}', 'intent': 'mo_phim'}
+{'template': 'Phim của {ten_dien_vien} vào thời gian {thoi_gian}', 'intent': 'tim_phim'}
+{'template': 'Có bộ phim mới không?', 'intent': 'tim_phim'}
+{'template': '{tim_phim} {ten_phim}', 'intent': 'tim_phim'}

@@ -1,0 +1,13 @@
+tìm giúp tôi chương trình {ten_chuong_trinh}
+tôi muốn các chương trình có diễn viên {ten_dien_vien}
+chương trình {the_loai_chuong_trinh} nào có diễn viên {ten_dien_vien}
+mở chương trình {ten_chuong_trinh}
+phát chương trình {ten_chuong_trinh}
+{the_loai_chuong_trinh}
+{ten_dien_vien}
+{ten_chuong_trinh}
+mở giúp tôi chương trình {ten_chuong_trinh} bởi đạo diễn {ten_dao_dien}
+tôi muốn xem {ten_chuong_trinh}
+chương trình nào có thể loại {the_loai_chuong_trinh}
+chương trình nào có diễn viên {ten_dien_vien}
+muốn tìm chương trình có tên {ten_chuong_trinh}

@@ -1,0 +1,19 @@
+{ten_phim}
+xem {ten_phim}
+phát {ten_phim} 
+phim {ten_dien_vien} {ten_dao_dien}
+phim {ten_dien_vien} {ten_dao_dien} {thoi_gian}
+tôi cần tìm phim {the_loai_phim}
+đưa tôi xem {ten_phim} được không
+cho tôi biết có phim gì mới không 
+tôi muốn xem phim {ten_phim} của {ten_dien_vien}
+phim {the_loai_phim} có nội dung hay đi
+phim {the_loai_phim} của {ten_dien_vien}
+tìm phim {the_loai_phim} có diễn viên {ten_dien_vien}
+phim của {ten_dien_vien} {thoi_gian}
+phim {the_loai_phim} {thoi_gian}
+{ten_dien_vien} đóng phim {ten_phim}
+phim {ten_phim} có nội dung gì
+{ten_dao_dien} làm phim {ten_phim}
+mở {ten_phim} lên
+mở {ten_phim} cho tôi

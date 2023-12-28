@@ -1,0 +1,589 @@
+{'question': 'Chatbot của bạn có những tính năng gì đặc biệt?', 'intent': 'feature_inquiry'}
+{'question': 'Tính năng nổi bật của chatbot là gì?', 'intent': 'feature_inquiry'}
+{'question': 'Bạn có thể mô tả về những tính năng chính của chatbot không?', 'intent': 'feature_inquiry'}
+{'question': 'Chatbot này được tạo ra với mục đích gì?', 'intent': 'creation_reason'}
+{'question': 'Sứ mệnh của chatbot là gì?', 'intent': 'creation_reason'}
+{'question': 'Tại sao bạn phát triển chatbot này?', 'intent': 'creation_reason'}
+{'question': 'Người tạo ra chatbot có mục đích gì khi phát triển nó?', 'intent': 'creation_reason'}
+{'question': 'Nhiệm vụ của bạn là gì?', 'intent': 'creation_reason'}
+{'question': 'Bạn có thể giúp tôi những gì?', 'intent': 'creation_reason'}
+{'question': 'Công dụng chính của bạn là gì?', 'intent': 'creation_reason'}
+{'question': 'Ai là người sáng tạo ra bạn?', 'intent': 'creation_reason'}
+{'question': 'Tính năng đặc biệt nào mà chatbot của bạn có?', 'intent': 'features'}
+{'question': 'Bạn được tạo ra như thế nào?', 'intent': 'creation_reason'}
+{'question': 'Bạn là ai?', 'intent': 'creation_reason'}
+{'question': 'Bạn được phát triển để làm gì?', 'intent': 'creation_reason'}
+{'question': 'Ai đã tạo ra bạn?', 'intent': 'creation_reason'}
+{'question': 'Làm thế nào bạn hoạt động?', 'intent': 'functionality'}
+{'question': 'Bạn có thể giúp tôi như thế nào?', 'intent': 'help'}
+{'question': 'Chatbot của bạn có khả năng học hỏi không?', 'intent': 'learning_ability'}
+{'question': 'Chatbot của bạn có công dụng chính là gì?', 'intent': 'main_purpose'}
+{'question': 'Bạn có thể tự giới thiệu về bản thân không?', 'intent': 'introduction'}
+{'question': 'Có những ứng dụng cụ thể nào mà bạn có thể hỗ trợ?', 'intent': 'specific_applications'}
+{'question': 'Có những tính năng nổi bật nào của bạn?', 'intent': 'feature_inquiry'}
+{'question': 'Hệ thống chatbot của bạn có những tính năng nổi bật nào?', 'intent': 'feature_inquiry'}
+{'question': 'Tính năng đặc biệt của chatbot là gì?', 'intent': 'feature_inquiry'}
+{'question': 'Chatbot của bạn có những khả năng gì đặc sắc?', 'intent': 'feature_inquiry'}
+{'question': 'Chatbot có thể giúp tôi như thế nào?', 'intent': 'help_capability'}
+{'question': 'Nhiệm vụ chính của chatbot là gì?', 'intent': 'mission_inquiry'}
+{'question': 'Chatbot được phát triển để thực hiện công việc gì?', 'intent': 'mission_inquiry'}
+{'question': 'Sứ mệnh của hệ thống chatbot là gì?', 'intent': 'mission_inquiry'}
+{'question': 'Người tạo ra chatbot là ai?', 'intent': 'identity_inquiry'}
+{'question': 'Có ai phát triển chatbot này không?', 'intent': 'identity_inquiry'}
+{'question': 'Bạn có khả năng học hỏi không?', 'intent': 'creation_reason'}
+{'question': 'Làm thế nào bạn đã được tạo ra?', 'intent': 'creation_process'}
+{'question': 'Chatbot của bạn được phát triển để làm gì?', 'intent': 'creation_reason'}
+{'question': 'Bạn có những khả năng gì đặc sắc?', 'intent': 'special_capabilities'}
+{'question': 'Bạn làm được những gì?', 'intent': 'capabilities'}
+{'question': 'Bạn đang làm gì?', 'intent': 'creation_reason'}
+{'question': 'Tính năng chính của bạn là gì?', 'intent': 'features'}
+{'question': 'Chatbot có tính năng nổi bật gì?', 'intent': 'features'}
+{'question': 'Tính năng đặc biệt của bạn là gì?', 'intent': 'features'}
+{'question': 'Người sáng tạo ra bạn là ai?', 'intent': 'creation_reason'}
+{'question': 'Có người nào phát triển chatbot này không?', 'intent': 'creation_reason'}
+{'question': 'Tác giả của bạn là ai?', 'intent': 'creation_reason'}
+{'question': 'Bạn được phát triển bởi đội nào?', 'intent': 'creation_reason'}
+{'question': 'Chatbot này được tạo ra để làm gì?', 'intent': 'creation_reason'}
+{'question': 'Nhiệm vụ chính của bạn là gì?', 'intent': 'purpose'}
+{'question': 'Người nào đã tạo ra bạn?', 'intent': 'creation_reason'}
+{'question': 'Bạn được phát triển bởi ai?', 'intent': 'creation_reason'}
+{'question': 'Ai là cha đẻ của chatbot?', 'intent': 'creation_reason'}
+{'question': 'Chatbot có khả năng tự nâng cao kỹ năng không?', 'intent': 'learning_capability'}
+{'question': 'Làm thế nào chatbot có thể học từ người dùng?', 'intent': 'learning_capability'}
+{'question': 'Tính năng nổi bật nào mà chatbot có?', 'intent': 'special_features'}
+{'question': 'Các khả năng đặc sắc của chatbot là gì?', 'intent': 'special_features'}
+{'question': 'Chatbot có những tính năng đặc biệt gì?', 'intent': 'special_features'}
+{'question': 'Mục đích phát triển của chatbot là gì?', 'intent': 'development_purpose'}
+{'question': 'Ai là người đã tạo ra bạn?', 'intent': 'creation_reason'}
+{'question': 'Bạn là sản phẩm của đội nào?', 'intent': 'creation_reason'}
+{'question': 'Tại sao chatbot này được phát triển?', 'intent': 'creation_reason'}
+{'question': 'Chatbot có thể tự học không?', 'intent': 'learning_capability'}
+{'question': 'Làm thế nào chatbot có thể cải thiện khả năng của mình?', 'intent': 'learning_capability'}
+{'question': 'Chatbot này là cái gì?', 'intent': 'identity'}
+{'question': 'Tính cách của bạn như thế nào?', 'intent': 'identity'}
+{'question': 'Chatbot có những tính năng nổi bật nào?', 'intent': 'features'}
+{'question': 'Có những khả năng đặc biệt nào mà chatbot có?', 'intent': 'features'}
+{'question': 'Chatbot được thiết kế để làm gì?', 'intent': 'mission'}
+{'question': 'Bạn đã được tạo ra với mục đích gì?', 'intent': 'creation_reason'}
+{'question': 'Hệ thống chatbot của bạn được phát triển để làm gì?', 'intent': 'creation_reason'}
+{'question': 'Tại sao lại có chatbot như bạn?', 'intent': 'creation_reason'}
+{'question': 'Chatbot của bạn được thiết kế để đáp ứng nhu cầu gì?', 'intent': 'main_purpose'}
+{'question': 'Mục tiêu chính của chatbot là gì?', 'intent': 'main_purpose'}
+{'question': 'Bạn có những ứng dụng cụ thể nào?', 'intent': 'main_function'}
+{'question': 'Chatbot có những khả năng gì đặc biệt?', 'intent': 'main_function'}
+{'question': 'Tính năng nổi bật nào mà bạn mang lại cho người dùng?', 'intent': 'capabilities'}
+{'question': 'Bạn có thể cung cấp những dịch vụ gì?', 'intent': 'capabilities'}
+{'question': 'Có điều gì làm nổi bật chatbot của bạn so với các hệ thống khác?', 'intent': 'special_features'}
+{'question': 'Sứ mệnh cụ thể của chatbot là gì?', 'intent': 'mission'}
+{'question': 'Chatbot được thiết kế để đạt được mục tiêu gì?', 'intent': 'mission'}
+{'question': 'Mục đích lớn nhất của hệ thống chatbot là gì?', 'intent': 'mission'}
+{'question': 'Sứ mệnh của bạn là gì?', 'intent': 'mission'}
+{'question': 'Ai là người phát triển chatbot của bạn?', 'intent': 'development_team'}
+{'question': 'Bạn có những tính năng đặc biệt nào giúp tôi?', 'intent': 'special_features'}
+{'question': 'Có thể bạn tự giới thiệu về bản thân không?', 'intent': 'creation_reason'}
+{'question': 'Bạn được tạo ra để giải quyết vấn đề gì?', 'intent': 'creation_reason'}
+{'question': 'Hệ thống chatbot này có những ứng dụng cụ thể nào?', 'intent': 'creation_reason'}
+{'question': 'Chatbot này có những tính năng đặc sắc gì?', 'intent': 'special_features'}
+{'question': 'Các khả năng nổi bật của chatbot là gì?', 'intent': 'special_features'}
+{'question': 'Làm thế nào chatbot của bạn có thể hỗ trợ tôi?', 'intent': 'how_can_help'}
+{'question': 'Chatbot có những tính năng đặc biệt nào giúp tôi?', 'intent': 'special_features'}
+{'question': 'Ai đã tạo ra chatbot này?', 'intent': 'creation_reason'}
+{'question': 'Mục tiêu của bạn là gì?', 'intent': 'mission'}
+{'question': 'Bạn được tạo ra với lý do gì?', 'intent': 'creation_reason'}
+{'question': 'Lý do bạn được phát triển là gì?', 'intent': 'creation_reason'}
+{'question': 'Bạn được tạo ra để thực hiện công việc gì?', 'intent': 'main_function'}
+{'question': 'Có những điểm nổi bật nào về tính năng của chatbot?', 'intent': 'special_features'}
+{'question': 'Chatbot có tính cách như thế nào?', 'intent': 'personality'}
+{'question': 'Chatbot được tạo ra bởi đội nào?', 'intent': 'creator'}
+{'question': 'Có những nhiệm vụ cụ thể nào mà bạn thực hiện?', 'intent': 'main_function'}
+{'question': 'Có những ứng dụng cụ thể nào của bạn?', 'intent': 'applications'}
+{'question': 'Có những điều gì bạn có thể giúp tôi?', 'intent': 'capabilities'}
+{'question': 'Chatbot của bạn có những điểm đặc sắc nào?', 'intent': 'feature_highlight'}
+{'question': 'Ai là người đã tạo ra chatbot này?', 'intent': 'creator'}
+{'question': 'Chatbot có khả năng tự học không?', 'intent': 'learning_ability'}
+{'question': 'Chatbot của bạn được thiết kế để giải quyết những nhu cầu nào?', 'intent': 'purpose'}
+{'question': 'Tính năng chính của chatbot là gì?', 'intent': 'primary_function'}
+{'question': 'Chatbot có những đặc tính đặc biệt nào?', 'intent': 'special_features'}
+{'question': 'Ai là người phát triển chatbot này?', 'intent': 'developer'}
+{'question': 'Chatbot có những khả năng đặc sắc gì?', 'intent': 'capabilities'}
+{'question': 'Người tạo ra bạn là ai?', 'intent': 'creation_reason'}
+{'question': 'Bạn được tạo ra bởi ai?', 'intent': 'creation_reason'}
+{'question': 'Có những công việc nào mà bạn có thể hỗ trợ?', 'intent': 'capabilities'}
+{'question': 'Bạn có kỹ năng gì mà tôi có thể sử dụng?', 'intent': 'capabilities'}
+{'question': 'Bạn được tạo ra để làm gì chính xác?', 'intent': 'main_function'}
+{'question': 'Làm thế nào bạn có thể hỗ trợ tôi?', 'intent': 'assistance'}
+{'question': 'Cách bạn có thể giúp đỡ tôi là gì?', 'intent': 'assistance'}
+{'question': 'Có điều gì đặc biệt về tính năng của bạn?', 'intent': 'special_features'}
+{'question': 'Dịch vụ nào mà bạn có thể cung cấp?', 'intent': 'services_offered'}
+{'question': 'Các dịch vụ bạn có thể hỗ trợ là gì?', 'intent': 'services_offered'}
+{'question': 'Các tính năng chính của bạn là gì?', 'intent': 'features_description'}
+{'question': 'Miêu tả về những tính năng chính của bạn được không?', 'intent': 'features_description'}
+{'question': 'Giới thiệu về bản thân của bạn đi', 'intent': 'self_introduction'}
+{'question': 'Có thể bạn tự giới thiệu về mình được không?', 'intent': 'self_introduction'}
+{'question': 'Người nào đã sáng tạo ra bạn?', 'intent': 'creation_reason'}
+{'question': 'Chatbot có thể cải thiện khả năng của mình như thế nào?', 'intent': 'improvement_methods'}
+{'question': 'Các tính năng nổi bật của hệ thống chatbot là gì?', 'intent': 'highlighted_features'}
+{'question': 'Lý do bạn được tạo ra là gì?', 'intent': 'creation_reason'}
+{'question': 'Chatbot này được phát triển với mục đích gì?', 'intent': 'creation_reason'}
+{'question': 'Tại sao lại có sự xuất hiện của chatbot này?', 'intent': 'creation_reason'}
+{'question': 'Mục đích chính của bạn là gì?', 'intent': 'creation_reason'}
+{'question': 'Người nào đã tạo ra chatbot này?', 'intent': 'creator_info'}
+{'question': 'Ai là người sáng tạo ra hệ thống chatbot này?', 'intent': 'creator_info'}
+{'question': 'Chatbot này được phát triển bởi đội ngũ nào?', 'intent': 'creator_info'}
+{'question': 'Có ai đứng sau việc phát triển chatbot không?', 'intent': 'creator_info'}
+{'question': 'Chatbot này có những khả năng gì đặc sắc?', 'intent': 'capabilities'}
+{'question': 'Chatbot có những kỹ năng đặc biệt nào?', 'intent': 'capabilities'}
+{'question': 'Tính năng nổi bật của chatbot có gì đặc biệt?', 'intent': 'capabilities'}
+{'question': 'Sứ mệnh chính của bạn là gì?', 'intent': 'mission'}
+{'question': 'Chatbot có mục tiêu cụ thể nào không?', 'intent': 'mission'}
+{'question': 'Nhiệm vụ của chatbot là gì?', 'intent': 'mission'}
+{'question': 'Có mục tiêu nào mà chatbot đang hướng đến không?', 'intent': 'mission'}
+{'question': 'Tôi có thể sử dụng những kỹ năng gì từ chatbot?', 'intent': 'usable_skills'}
+{'question': 'Chatbot có những tính năng đặc biệt nào mà tôi có thể tận dụng?', 'intent': 'usable_skills'}
+{'question': 'Cách tôi có thể tirjn dụng những kỹ năng của chatbot?', 'intent': 'usable_skills'}
+{'question': 'Có ai đã tạo ra chatbot này không?', 'intent': 'creation_author'}
+{'question': 'Mục tiêu của chatbot là gì?', 'intent': 'goal'}
+{'question': 'Chatbot có thể tự động cập nhật thông tin không?', 'intent': 'automatic_updates'}
+{'question': 'Làm thế nào để tận dụng các tính năng đặc biệt của chatbot?', 'intent': 'utilizing_special_features'}
+{'question': 'Tôi nên biết gì về bạn?', 'intent': 'overview'}
+{'question': 'Đội ngũ phát triển chatbot này là ai?', 'intent': 'development_team'}
+{'question': 'Làm thế nào để cập nhật thông tin của chatbot?', 'intent': 'update_process'}
+{'question': 'Chatbot được sử dụng trong những trường hợp nào?', 'intent': 'applications'}
+{'question': 'Mục đích chính của chatbot là gì?', 'intent': 'mission'}
+{'question': 'Sứ mệnh chính của chatbot là gì?', 'intent': 'mission'}
+{'question': 'Mục đích của bạn là gì?', 'intent': 'purpose'}
+{'question': 'Bạn được phát triển để làm những gì?', 'intent': 'development_purpose'}
+{'question': 'Chatbot có thể hỗ trợ những công việc gì?', 'intent': 'supported_tasks'}
+{'question': 'Chatbot có khả năng giúp đỡ tôi như thế nào?', 'intent': 'capabilities'}
+{'question': 'Tính năng đặc biệt nào mà chatbot có?', 'intent': 'special_features'}
+{'question': 'Bạn có sứ mệnh gì?', 'intent': 'mission'}
+{'question': 'Chatbot có được phát triển với mục tiêu gì?', 'intent': 'creation_goal'}
+{'question': 'Làm thế nào chatbot có thể giúp tôi?', 'intent': 'how_can_help'}
+{'question': 'Chatbot có thể hỗ trợ tôi như thế nào?', 'intent': 'how_can_help'}
+{'question': 'Có cách nào để tối ưu hóa khả năng của chatbot không?', 'intent': 'improvement_methods'}
+{'question': 'Tại sao bạn được tạo ra?', 'intent': 'creation_reason'}
+{'question': 'Được phát triển để làm gì?', 'intent': 'creation_reason'}
+{'question': 'Lý do tạo ra bạn là gì?', 'intent': 'creation_reason'}
+{'question': 'Chatbot này được phát triển để làm những việc gì?', 'intent': 'creation_reason'}
+{'question': 'Chatbot này thuộc về đội nào?', 'intent': 'identity'}
+{'question': 'Chatbot này được phát triển bởi ai?', 'intent': 'identity'}
+{'question': 'Thông tin về người tạo ra bạn là gì?', 'intent': 'identity'}
+{'question': 'Cách bạn có thể giúp đỡ tôi?', 'intent': 'capabilities'}
+{'question': 'Tính năng của bạn là gì?', 'intent': 'capabilities'}
+{'question': 'Bạn có thể làm những công việc gì?', 'intent': 'capabilities'}
+{'question': 'Các khả năng của chatbot là như thế nào?', 'intent': 'capabilities'}
+{'question': 'Chatbot có thể thực hiện nhiệm vụ gì?', 'intent': 'functionality'}
+{'question': 'Chatbot này có ứng dụng trong lĩnh vực nào?', 'intent': 'functionality'}
+{'question': 'Có điều gì đặc biệt ở chatbot của bạn?', 'intent': 'special_features'}
+{'question': 'Chatbot này có những điểm độc đáo gì?', 'intent': 'special_features'}
+{'question': 'Các tính năng đặc sắc của bạn là gì?', 'intent': 'special_features'}
+{'question': 'Có những cá nhân hay tổ chức nào đứng sau việc phát triển bạn?', 'intent': 'creation_reason'}
+{'question': 'Đội ngũ nào phát triển chatbot này?', 'intent': 'creation_reason'}
+{'question': 'Chatbot này có tính năng gì đặc biệt?', 'intent': 'features'}
+{'question': 'Tính năng nổi bật nào mà bạn có?', 'intent': 'features'}
+{'question': 'Bạn được tạo ra để làm gì?', 'intent': 'creation_reason'}
+{'question': 'Mục tiêu chính của bạn là gì?', 'intent': 'creation_reason'}
+{'question': 'Lý do chatbot này được phát triển là gì?', 'intent': 'creation_reason'}
+{'question': 'Người tạo ra bạn muốn đạt được điều gì khi phát triển chatbot?', 'intent': 'creation_reason'}
+{'question': 'Chatbot này có thể tự học từ dữ liệu không?', 'intent': 'learning_ability'}
+{'question': 'Có những tính năng đặc biệt nào mà bạn có?', 'intent': 'special_features'}
+{'question': 'Tôi có thể sử dụng chatbot để thực hiện những nhiệm vụ nào?', 'intent': 'capabilities'}
+{'question': 'Chatbot có thể giúp tôi trong những lĩnh vực nào?', 'intent': 'capabilities'}
+{'question': 'Bạn có những tính năng nổi bật nào?', 'intent': 'feature_inquiry'}
+{'question': 'Bạn có thể thực hiện những công việc gì?', 'intent': 'tasks_inquiry'}
+{'question': 'Chatbot của bạn được tạo ra như thế nào?', 'intent': 'creation_reason'}
+{'question': 'Chatbot có những khả năng gì?', 'intent': 'capabilities'}
+{'question': 'Có những công việc nào mà chatbot của bạn có thể hỗ trợ?', 'intent': 'capabilities'}
+{'question': 'Làm thế nào chatbot của bạn có thể giúp tôi?', 'intent': 'capabilities'}
+{'question': 'Công dụng chính của chatbot là gì?', 'intent': 'main_purpose'}
+{'question': 'Chatbot của bạn thực hiện những nhiệm vụ cụ thể nào?', 'intent': 'specific_tasks'}
+{'question': 'Làm sao bạn được phát triển?', 'intent': 'creation_reason'}
+{'question': 'Có thể bạn tự học được không?', 'intent': 'learning_capability'}
+{'question': 'Tính năng học hỏi của bạn như thế nào?', 'intent': 'learning_capability'}
+{'question': 'Bạn đặt ra mục tiêu gì?', 'intent': 'mission'}
+{'question': 'Mục đích của chatbot là gì?', 'intent': 'purpose'}
+{'question': 'Bạn được thiết kế để làm gì?', 'intent': 'purpose'}
+{'question': 'Bạn làm việc với mục đích gì?', 'intent': 'creation_reason'}
+{'question': 'Tôi muốn biết về quá trình phát triển của bạn làm thế nào?', 'intent': 'creation_reason'}
+{'question': 'Có ai hoặc cái gì đã tạo ra chatbot này?', 'intent': 'creation_reason'}
+{'question': 'Làm thế nào bạn đã được phát triển?', 'intent': 'creation_reason'}
+{'question': 'Các điểm mạnh nổi bật của bạn là gì?', 'intent': 'features'}
+{'question': 'Tôi muốn biết về các tính năng chính của chatbot?', 'intent': 'features'}
+{'question': 'Chatbot này được thiết kế để làm những gì?', 'intent': 'mission'}
+{'question': 'Cách sử dụng những tính năng đặc biệt của bạn như thế nào?', 'intent': 'utilizing_features'}
+{'question': 'Tôi có thể tận dụng những tính năng nổi bật của chatbot như thế nào?', 'intent': 'utilizing_features'}
+{'question': 'Lĩnh vực nào mà bạn có thể hỗ trợ?', 'intent': 'applications'}
+{'question': 'Ứng dụng của chatbot này là gì?', 'intent': 'applications'}
+{'question': 'Tôi có thể nhận được sự giúp đỡ như thế nào từ bạn?', 'intent': 'support'}
+{'question': 'Tính năng nổi bật của bạn là gì?', 'intent': 'highlighted_features'}
+{'question': 'Các tính năng được đánh giá cao của chatbot là gì?', 'intent': 'highlighted_features'}
+{'question': 'Người phát triển của chatbot là ai?', 'intent': 'developer'}
+{'question': 'Chatbot được phát triển để giải quyết vấn đề gì?', 'intent': 'problem_solving'}
+{'question': 'Chatbot của bạn có thể làm được những công việc gì?', 'intent': 'capabilities'}
+{'question': 'Tính cách của chatbot là như thế nào?', 'intent': 'personality_traits'}
+{'question': 'Người nào đã phát triển chatbot này?', 'intent': 'creation_reason'}
+{'question': 'Bạn đặt ra mục tiêu gì cho chatbot?', 'intent': 'purpose'}
+{'question': 'Hệ thống chatbot có mục đích gì?', 'intent': 'purpose'}
+{'question': 'Chatbot có khả năng nâng cao kỹ năng của mình như thế nào?', 'intent': 'improvement_method'}
+{'question': 'Chatbot đặt ra mục tiêu gì cho bản thân?', 'intent': 'self_goals'}
+{'question': 'Bạn được tạo ra để đáp ứng mục đích gì?', 'intent': 'creation_purpose'}
+{'question': 'Người nào là người sáng tạo ra bạn?', 'intent': 'creation_reason'}
+{'question': 'Chatbot của bạn có những tính năng nổi bật nào?', 'intent': 'features'}
+{'question': 'Những nhiệm vụ cụ thể nào mà chatbot của bạn thực hiện được?', 'intent': 'capabilities'}
+{'question': 'Làm thế nào chatbot của bạn được phát triển?', 'intent': 'creation_process'}
+{'question': 'Chatbot của bạn được phát triển bởi ai?', 'intent': 'creation_process'}
+{'question': 'Người tạo ra bạn muốn đạt được điều gì?', 'intent': 'creation_reason'}
+{'question': 'Nguyên nhân tạo ra bạn là gì?', 'intent': 'creation_reason'}
+{'question': 'Bạn được phát triển như thế nào?', 'intent': 'creation_reason'}
+{'question': 'Lý do cho sự tồn tại của bạn là gì?', 'intent': 'creation_reason'}
+{'question': 'Xin giới thiệu về bạn?', 'intent': 'self_introduction'}
+{'question': 'Làm sao để sử dụng những tính năng đặc biệt của bạn?', 'intent': 'special_features_usage'}
+{'question': 'Cách sử dụng các tính năng đặc biệt của chatbot?', 'intent': 'special_features_usage'}
+{'question': 'Quá trình tạo ra chatbot này như thế nào?', 'intent': 'creation_process'}
+{'question': 'Bạn được phát triển như thế nào để trở thành chatbot?', 'intent': 'creation_process'}
+{'question': 'Có những tính năng nổi bật nào mà bạn có?', 'intent': 'special_features'}
+{'question': 'Bạn có thể hỗ trợ trong những lĩnh vực nào?', 'intent': 'support_field'}
+{'question': 'Chatbot của bạn có thể giúp đỡ trong các lĩnh vực nào?', 'intent': 'support_field'}
+{'question': 'Người sáng lập chatbot là ai?', 'intent': 'creation_reason'}
+{'question': 'Có khả năng nâng cao của bạn là gì?', 'intent': 'learning_capability'}
+{'question': 'Những tính năng nổi bật của bạn là gì?', 'intent': 'features'}
+{'question': 'Chatbot có những điểm mạnh nào?', 'intent': 'features'}
+{'question': 'Chatbot có thể giúp đỡ trong những việc gì?', 'intent': 'capabilities'}
+{'question': 'Tại sao bạn xây dựng chatbot này?', 'intent': 'creation_reason'}
+{'question': 'Hệ thống của bạn hoạt động như thế nào?', 'intent': 'operation'}
+{'question': 'Mục đích chính của việc phát triển chatbot là gì?', 'intent': 'creation_purpose'}
+{'question': 'Trong lĩnh vực nào mà chatbot này có thể được sử dụng?', 'intent': 'application_field'}
+{'question': 'Chatbot này được tạo ra bởi ai?', 'intent': 'creation_reason'}
+{'question': 'Người phát triển chính của chatbot là ai?', 'intent': 'creation_reason'}
+{'question': 'Chatbot có công dụng gì?', 'intent': 'purpose'}
+{'question': 'Nhiệm vụ chính của bạn bao gồm những gì?', 'intent': 'capabilities'}
+{'question': 'Chatbot có khả năng làm những việc gì?', 'intent': 'capabilities'}
+{'question': 'Các kỹ năng bạn có là gì?', 'intent': 'capabilities'}
+{'question': 'Có thể tự động học hỏi được không?', 'intent': 'capabilities'}
+{'question': 'Bạn có thể tự cải thiện kỹ năng của mình không?', 'intent': 'capabilities'}
+{'question': 'Nhiệm vụ chính của bạn là làm gì?', 'intent': 'mission'}
+{'question': 'Tại sao chatbot được phát triển?', 'intent': 'creation_reason'}
+{'question': 'Bạn có mục đích gì khi phát triển?', 'intent': 'creation_reason'}
+{'question': 'Chatbot này được phát triển để làm gì?', 'intent': 'creation_reason'}
+{'question': 'Chatbot đang làm gì?', 'intent': 'current_activity'}
+{'question': 'Làm thế nào để sử dụng chatbot hiệu quả nhất?', 'intent': 'effective_usage'}
+{'question': 'Lý do bạn phát triển chatbot này là gì?', 'intent': 'creation_reason'}
+{'question': 'Mục đích chính của bạn khi phát triển chatbot là gì?', 'intent': 'creation_reason'}
+{'question': 'Vì sao bạn quyết định phát triển chatbot?', 'intent': 'creation_reason'}
+{'question': 'Chatbot được tạo ra để làm gì?', 'intent': 'creation_reason'}
+{'question': 'Chatbot được phát triển để đáp ứng nhu cầu nào?', 'intent': 'creation_reason'}
+{'question': 'Làm thế nào chatbot được phát triển?', 'intent': 'creation_process'}
+{'question': 'Chatbot được tạo ra bằng cách nào?', 'intent': 'creation_process'}
+{'question': 'Có bao lâu để phát triển chatbot này?', 'intent': 'creation_process'}
+{'question': 'Chatbot có thể thực hiện những nhiệm vụ gì?', 'intent': 'capabilities'}
+{'question': 'Chatbot có khả năng tự động cập nhật thông tin không?', 'intent': 'capabilities'}
+{'question': 'Có những công việc cụ thể nào mà chatbot có thể thực hiện?', 'intent': 'capabilities'}
+{'question': 'Chatbot có thể tương tác với người dùng như thế nào?', 'intent': 'capabilities'}
+{'question': 'Chatbot của bạn có những công việc gì?', 'intent': 'capabilities'}
+{'question': 'Làm thế nào bạn mô tả sứ mệnh của mình?', 'intent': 'creation_reason'}
+{'question': 'Bạn được phát triển với mục đích gì?', 'intent': 'creation_reason'}
+{'question': 'Phương pháp tạo ra bạn là gì?', 'intent': 'creation_process'}
+{'question': 'Nguyên lý hoạt động của chatbot là gì?', 'intent': 'creation_process'}
+{'question': 'Bạn được phát triển bằng công nghệ nào?', 'intent': 'creation_process'}
+{'question': 'Quy trình phát triển của bạn như thế nào?', 'intent': 'creation_process'}
+{'question': 'Có những phương pháp nào để nâng cao khả năng của bạn?', 'intent': 'improvement_capability'}
+{'question': 'Cách mà bạn có thể phát triển theo thời gian là gì?', 'intent': 'improvement_capability'}
+{'question': 'Làm thế nào tôi có thể giúp bạn cải thiện?', 'intent': 'improvement_capability'}
+{'question': 'Nhiệm vụ cơ bản nhất của bạn là gì?', 'intent': 'main_task'}
+{'question': 'Các chức năng cụ thể mà bạn có thể thực hiện là gì?', 'intent': 'main_task'}
+{'question': 'Chatbot của bạn có những ứng dụng nào chính?', 'intent': 'creation_reason'}
+{'question': 'Có những công việc gì mà chatbot của bạn có thể thực hiện?', 'intent': 'creation_reason'}
+{'question': 'Lý do chính khiến bạn phát triển chatbot này là gì?', 'intent': 'creation_reason'}
+{'question': 'Chatbot có khả năng tự động học hỏi được không?', 'intent': 'learning_capability'}
+{'question': 'Làm thế nào chatbot của bạn học hỏi được từ người dùng?', 'intent': 'learning_capability'}
+{'question': 'Ai là người sáng tạo ra chatbot này?', 'intent': 'creator'}
+{'question': 'Chatbot của bạn được phát triển để làm những công việc gì cụ thể?', 'intent': 'creation_purpose'}
+{'question': 'Chatbot này được tạo ra để giải quyết vấn đề gì?', 'intent': 'creation_purpose'}
+{'question': 'Làm thế nào chatbot hỗ trợ người dùng?', 'intent': 'creation_purpose'}
+{'question': 'Mục tiêu chính của việc phát triển chatbot là gì?', 'intent': 'creation_purpose'}
+{'question': 'Chatbot này được tạo ra như thế nào?', 'intent': 'creation_process'}
+{'question': 'Làm thế nào bạn có thể giúp đỡ tôi?', 'intent': 'assistance_capability'}
+{'question': 'Có ai đứng sau việc phát triển bạn không?', 'intent': 'developers_info'}
+{'question': 'Bạn được thiết kế để giải quyết vấn đề gì?', 'intent': 'creation_reason'}
+{'question': 'Thuộc về đội nào?', 'intent': 'team_affiliation'}
+{'question': 'Chatbot này là của đội nào?', 'intent': 'team_affiliation'}
+{'question': 'Được phát triển để giải quyết vấn đề gì?', 'intent': 'problem_solving'}
+{'question': 'Những tính năng nổi bật của chatbot là gì?', 'intent': 'features'}
+{'question': 'Vì sao bạn phát triển chatbot này?', 'intent': 'creation_reason'}
+{'question': 'Lý do bạn xây dựng chatbot là gì?', 'intent': 'creation_reason'}
+{'question': 'Có những mục tiêu nào mà chatbot của bạn muốn đạt được?', 'intent': 'creation_reason'}
+{'question': 'Chatbot của bạn có những điểm mạnh gì?', 'intent': 'features'}
+{'question': 'Tính năng nổi bật nào mà chatbot mang lại?', 'intent': 'features'}
+{'question': 'Những tính năng độc đáo nào mà chatbot có?', 'intent': 'features'}
+{'question': 'Chatbot có những tính năng gì mà người dùng nên biết?', 'intent': 'features'}
+{'question': 'Chatbot thực hiện được những công việc gì?', 'intent': 'features'}
+{'question': 'Người dùng có thể mong đợi điều gì từ chatbot của bạn?', 'intent': 'features'}
+{'question': 'Tính năng nổi bật mà chatbot mang lại cho người dùng là gì?', 'intent': 'features'}
+{'question': 'Ai là người sáng tạo chatbot của bạn?', 'intent': 'creation_reason'}
+{'question': 'Chatbot của bạn có những điểm mạnh nào?', 'intent': 'special_features'}
+{'question': 'Mục tiêu mà chatbot đang hướng đến là gì?', 'intent': 'goal'}
+{'question': 'Chatbot có mục tiêu cụ thể không?', 'intent': 'goal'}
+{'question': 'Chatbot phát triển để đạt được những gì?', 'intent': 'goal'}
+{'question': 'Chatbot có thể giúp đỡ trong những nhiệm vụ nào?', 'intent': 'services'}
+{'question': 'Đội ngũ phát triển chatbot này gồm những người nào?', 'intent': 'creation_reason'}
+{'question': 'Có những tính năng nào mà chatbot này cung cấp?', 'intent': 'features'}
+{'question': 'Chatbot này có những khả năng gì?', 'intent': 'features'}
+{'question': 'Người dùng nên biết về những điều gì khi sử dụng chatbot?', 'intent': 'features'}
+{'question': 'Bạn có một sứ mệnh cụ thể là gì?', 'intent': 'mission'}
+{'question': 'Hãy nói về mục đích tồn tại của bạn?', 'intent': 'creation_reason'}
+{'question': 'Có điều gì làm cho bạn độc đáo?', 'intent': 'distinctiveness'}
+{'question': 'Giới thiệu về bản thân của bạn được không?', 'intent': 'self_introduction'}
+{'question': 'Người sáng tạo chatbot là ai?', 'intent': 'creator'}
+{'question': 'Ai là tác giả của bạn?', 'intent': 'author'}
+{'question': 'Chatbot của bạn được tạo ra để làm gì?', 'intent': 'purpose'}
+{'question': 'Các công việc mà chatbot của bạn có thể thực hiện là gì?', 'intent': 'capabilities'}
+{'question': 'Chatbot đang thực hiện công việc gì?', 'intent': 'current_activity'}
+{'question': 'Chatbot của bạn đang làm gì?', 'intent': 'current_activity'}
+{'question': 'Có những điểm đặc sắc nào của chatbot của bạn?', 'intent': 'unique_features'}
+{'question': 'Chatbot của bạn có những tính cách như thế nào?', 'intent': 'personality_description'}
+{'question': 'Tại sao lại có sự xuất hiện của bạn?', 'intent': 'creation_reason'}
+{'question': 'Nguyên tắc hoạt động cơ bản của bạn là gì?', 'intent': 'creation_reason'}
+{'question': 'Có phải bạn có khả năng tự học không?', 'intent': 'learning_capability'}
+{'question': 'Làm thế nào bạn nâng cao khả năng của mình?', 'intent': 'learning_capability'}
+{'question': 'Cách bạn cải thiện khả năng phản ứng của mình?', 'intent': 'learning_capability'}
+{'question': 'Bạn được tạo ra để làm những công việc gì chính xác?', 'intent': 'purpose_of_creation'}
+{'question': 'Các nhiệm vụ cụ thể mà bạn thực hiện là gì?', 'intent': 'purpose_of_creation'}
+{'question': 'Bạn giúp người dùng như thế nào?', 'intent': 'purpose_of_creation'}
+{'question': 'Các thông tin cơ bản về bạn là gì?', 'intent': 'general_information'}
+{'question': 'Có điều gì đặc biệt về bạn mà tôi cần biết không?', 'intent': 'general_information'}
+{'question': 'Đội ngũ nào đã tạo ra bạn?', 'intent': 'development_team'}
+{'question': 'Ai là người đứng đằng sau sự phát triển của bạn?', 'intent': 'development_team'}
+{'question': 'Tính năng nổi bật nào làm nổi bật bạn nhất?', 'intent': 'notable_capabilities'}
+{'question': 'Bạn có những khả năng đặc biệt nào?', 'intent': 'notable_capabilities'}
+{'question': 'Cơ chế làm việc cơ bản của bạn là gì?', 'intent': 'system_operations'}
+{'question': 'Làm thế nào bạn xử lý thông tin từ người dùng?', 'intent': 'system_operations'}
+{'question': 'Tính năng đặc biệt nào mà hệ thống của bạn có?', 'intent': 'notable_features'}
+{'question': 'Có những điểm độc đáo nào trong tính năng của bạn không?', 'intent': 'notable_features'}
+{'question': 'Chatbot của bạn được tạo ra với mục đích gì?', 'intent': 'creation_reason'}
+{'question': 'Tại sao lại tạo ra chatbot này?', 'intent': 'creation_reason'}
+{'question': 'Điều gì làm nổi bật chatbot của bạn?', 'intent': 'features'}
+{'question': 'Có thể bạn nói về các tính năng chính của mình không?', 'intent': 'features'}
+{'question': 'Thông tin về người sáng tạo ra bạn là gì?', 'intent': 'creator_info'}
+{'question': 'Phương pháp nào đã được sử dụng để tạo ra bạn?', 'intent': 'creation_method'}
+{'question': 'Có phương pháp cụ thể nào được áp dụng để tạo ra bạn không?', 'intent': 'creation_method'}
+{'question': 'Bạn có khả năng tự học không?', 'intent': 'self_learning'}
+{'question': 'Có khả năng tự nâng cao không?', 'intent': 'self_learning'}
+{'question': 'Ai là người chủ chốt phát triển chatbot này?', 'intent': 'main_developer'}
+{'question': 'Có những tính năng cốt lõi nào mà bạn cung cấp?', 'intent': 'core_features'}
+{'question': 'Làm thế nào bạn có thể được cải thiện?', 'intent': 'improvement_capability'}
+{'question': 'Có những khía cạnh nào của bạn có thể được phát triển thêm không?', 'intent': 'improvement_capability'}
+{'question': 'Có thể bạn giới thiệu về chính bạn được không?', 'intent': 'creation_reason'}
+{'question': 'Ai là người tạo ra bạn?', 'intent': 'creation_reason'}
+{'question': 'Cơ chế hoạt động của bạn là gì?', 'intent': 'working_mechanism'}
+{'question': 'Bạn hoạt động như thế nào?', 'intent': 'working_mechanism'}
+{'question': 'Giải thích cách chatbot hoạt động được không?', 'intent': 'working_mechanism'}
+{'question': 'Chatbot có những khả năng đặc biệt gì?', 'intent': 'capabilities'}
+{'question': 'Bạn có những khả năng cải thiện nào?', 'intent': 'capabilities'}
+{'question': 'Nâng cao của chatbot bao gồm những gì?', 'intent': 'capabilities'}
+{'question': 'Phát triển chatbot có mục đích gì?', 'intent': 'development_goal'}
+{'question': 'Chatbot có thể tự giới thiệu không?', 'intent': 'self_introduction'}
+{'question': 'Xin hãy tự giới thiệu về chatbot này.', 'intent': 'self_introduction'}
+{'question': 'Chatbot có những công việc gì mà nó có thể thực hiện?', 'intent': 'capabilities'}
+{'question': 'Công dụng của chatbot là gì?', 'intent': 'capabilities'}
+{'question': 'Có thể tự giới thiệu về bạn không?', 'intent': 'introduction'}
+{'question': 'Có những cải tiến gì đang được phát triển?', 'intent': 'upcoming_features'}
+{'question': 'Làm thế nào để tương tác hiệu quả với bạn?', 'intent': 'interaction_tips'}
+{'question': 'Làm thế nào hệ thống của bạn hoạt động?', 'intent': 'operation_process'}
+{'question': 'Cuối cùng, mục tiêu của bạn là gì?', 'intent': 'mission'}
+{'question': 'Bạn tự học được không? Làm thế nào?', 'intent': 'self_learning'}
+{'question': 'Hệ thống của bạn được phát triển để làm gì?', 'intent': 'development_purpose'}
+{'question': 'Có thể giới thiệu về bản thân của bạn được không?', 'intent': 'introduction'}
+{'question': 'Tại sao bạn quyết định phát triển chatbot?', 'intent': 'creation_reason'}
+{'question': 'Các nhiệm vụ bạn được thiết kế để thực hiện là gì?', 'intent': 'mission'}
+{'question': 'Chatbot này được phát triển để giải quyết những nhu cầu nào?', 'intent': 'purpose'}
+{'question': 'Chatbot của bạn được thiết kế để làm gì?', 'intent': 'creation_reason'}
+{'question': 'Bạn có thể mô tả về nhiệm vụ chính của mình được không?', 'intent': 'mission'}
+{'question': 'Bạn có những dịch vụ nào mà tôi có thể sử dụng?', 'intent': 'services'}
+{'question': 'Chatbot có khả năng cung cấp những dịch vụ gì?', 'intent': 'services'}
+{'question': 'Tính năng độc đáo nào mà bạn có?', 'intent': 'features'}
+{'question': 'Chatbot của bạn có những tính năng đặc biệt nào giúp tôi?', 'intent': 'special_features'}
+{'question': 'Có khả năng tự động học hỏi không?', 'intent': 'learning_ability'}
+{'question': 'Chatbot được phát triển để làm gì?', 'intent': 'purpose'}
+{'question': 'Làm thế nào bạn đã được phát triển để trở thành chatbot?', 'intent': 'creation_reason'}
+{'question': 'Có tính năng đặc biệt nào mà hệ thống của bạn có không?', 'intent': 'creation_reason'}
+{'question': 'Chatbot của bạn thực hiện những công việc gì?', 'intent': 'creation_reason'}
+{'question': 'Bạn có mục đích gì khi phát triển chatbot?', 'intent': 'creation_reason'}
+{'question': 'Làm thế nào tôi có thể tirjn dụng những kỹ năng của chatbot?', 'intent': 'utilization'}
+{'question': 'Bạn được tạo ra để giúp đỡ trong những công việc gì?', 'intent': 'purpose'}
+{'question': 'Các công việc mà bạn có thể thực hiện là gì?', 'intent': 'capabilities'}
+{'question': 'Làm thế nào để bạn có thể nâng cao khả năng của mình?', 'intent': 'improvement'}
+{'question': 'Có cơ chế tự cập nhật nào để cải thiện chatbot không?', 'intent': 'improvement'}
+{'question': 'Tại sao lại phát triển chatbot này?', 'intent': 'creation_reason'}
+{'question': 'Lý do gì khiến bạn ra đời?', 'intent': 'creation_reason'}
+{'question': 'Bạn hướng đến mục tiêu gì?', 'intent': 'goal'}
+{'question': 'Có kế hoạch cụ thể nào cho chatbot không?', 'intent': 'goal'}
+{'question': 'Chatbot có khả năng thực hiện những công việc gì?', 'intent': 'capabilities'}
+{'question': 'Chatbot có khả năng tự động học hỏi không?', 'intent': 'learning_ability'}
+{'question': 'Làm thế nào chatbot có thể tự động nâng cao khả năng của mình?', 'intent': 'learning_ability'}
+{'question': 'Ai là người đứng đằng sau việc phát triển bạn?', 'intent': 'creation_reason'}
+{'question': 'Có phải bạn có khả năng tự nâng cao không?', 'intent': 'learning_capability'}
+{'question': 'Chatbot có thể tự động cải thiện khả năng của mình không?', 'intent': 'learning_capability'}
+{'question': 'Các ưu điểm của bạn là gì?', 'intent': 'strengths'}
+{'question': 'Mục tiêu phát triển của người tạo là gì?', 'intent': 'development_goals'}
+{'question': 'Điều gì là quan trọng nhất đối với người phát triển bạn?', 'intent': 'development_goals'}
+{'question': 'Chatbot có những đặc điểm nổi bật gì?', 'intent': 'special_features'}
+{'question': 'Có điều gì làm bạn khác biệt so với các chatbot khác?', 'intent': 'special_features'}
+{'question': 'Chatbot làm nhiệm vụ gì chủ yếu?', 'intent': 'main_task'}
+{'question': 'Nhiệm vụ cơ bản của bạn là gì?', 'intent': 'main_task'}
+{'question': 'Bạn được thiết kế để giúp đỡ như thế nào?', 'intent': 'function'}
+{'question': 'Chatbot có thể làm những việc gì?', 'intent': 'function'}
+{'question': 'Người dùng có thể mong đợi điều gì từ bạn?', 'intent': 'user_expectations'}
+{'question': 'Nhiệm vụ cụ thể nào mà bạn có thể thực hiện được?', 'intent': 'specific_tasks'}
+{'question': 'Chatbot này được tạo ra bởi đội nào?', 'intent': 'creation_reason'}
+{'question': 'Có những tính năng nổi bật nào của chatbot?', 'intent': 'features'}
+{'question': 'Chatbot này có những điểm độc đáo nào?', 'intent': 'features'}
+{'question': 'Có những điểm khác biệt gì về tính năng của chatbot so với các chatbot khác?', 'intent': 'features'}
+{'question': 'Làm thế nào quá trình phát triển của chatbot diễn ra?', 'intent': 'development_process'}
+{'question': 'Chatbot này được xây dựng như thế nào?', 'intent': 'development_process'}
+{'question': 'Có những bước nào đã được thực hiện trong quá trình phát triển chatbot?', 'intent': 'development_process'}
+{'question': 'Cuối cùng, mục tiêu của chatbot là gì?', 'intent': 'development_goal'}
+{'question': 'Có điều gì đặc biệt về mục tiêu của chatbot không?', 'intent': 'development_goal'}
+{'question': 'Hệ thống chatbot này được tạo ra với lý do gì?', 'intent': 'creation_reason'}
+{'question': 'Vì sao chatbot này được phát triển?', 'intent': 'creation_reason'}
+{'question': 'Lý do mà bạn tồn tại là gì?', 'intent': 'creation_reason'}
+{'question': 'Chatbot này được xây dựng để đáp ứng nhu cầu nào?', 'intent': 'purpose'}
+{'question': 'Nhu cầu mà chatbot này hướng đến là gì?', 'intent': 'purpose'}
+{'question': 'Có tính năng tự đào tạo nào trong chatbot không?', 'intent': 'learning_capability'}
+{'question': 'Chatbot được phát triển để đáp ứng nhu cầu cụ thể nào?', 'intent': 'main_purpose'}
+{'question': 'Chatbot này được tạo ra để làm gì chính?', 'intent': 'main_purpose'}
+{'question': 'Ai là người phát triển của chatbot?', 'intent': 'developer'}
+{'question': 'Đội ngũ phát triển chatbot bao gồm những ai?', 'intent': 'developer'}
+{'question': 'Người chịu trách nhiệm phát triển chatbot là ai?', 'intent': 'developer'}
+{'question': 'Bạn có thể mô tả về khả năng của mình được không?', 'intent': 'capabilities_description'}
+{'question': 'Chatbot của bạn có thể hỗ trợ trong những lĩnh vực nào?', 'intent': 'supportive_areas'}
+{'question': 'Người chủ chốt phát triển chatbot này là ai?', 'intent': 'developer'}
+{'question': 'Các tính năng nổi bật của chatbot là gì?', 'intent': 'capabilities'}
+{'question': 'Bạn có khả năng thực hiện những nhiệm vụ gì?', 'intent': 'capabilities'}
+{'question': 'Cụ thể, nhiệm vụ của chatbot là gì?', 'intent': 'creation_reason'}
+{'question': 'Chatbot được tạo ra để đáp ứng nhu cầu nào của người dùng?', 'intent': 'purpose'}
+{'question': 'Tôi sử dụng chatbot để làm gì?', 'intent': 'purpose'}
+{'question': 'Người dùng có thể tận dụng chatbot như thế nào?', 'intent': 'purpose'}
+{'question': 'Có những tính năng chính nào trong chatbot của bạn?', 'intent': 'features'}
+{'question': 'Tính năng nổi bật nào mà chatbot cung cấp?', 'intent': 'features'}
+{'question': 'Chatbot có những khả năng cụ thể gì?', 'intent': 'features'}
+{'question': 'Tính năng đặc biệt nào là điểm mạnh của chatbot?', 'intent': 'features'}
+{'question': 'Những điểm mạnh của chatbot là gì?', 'intent': 'strengths'}
+{'question': 'Chatbot có những ưu điểm gì so với các hệ thống khác?', 'intent': 'strengths'}
+{'question': 'Tại sao nên sử dụng chatbot của bạn thay vì các giải pháp khác?', 'intent': 'strengths'}
+{'question': 'Cơ chế hoạt động của chatbot là như thế nào?', 'intent': 'operation_mechanism'}
+{'question': 'Làm thế nào chatbot hoạt động để đáp ứng nhu cầu của người dùng?', 'intent': 'operation_mechanism'}
+{'question': 'Cơ sở hạ tầng của chatbot được xây dựng như thế nào?', 'intent': 'operation_mechanism'}
+{'question': 'Chatbot được tạo ra để giải quyết vấn đề cụ thể nào?', 'intent': 'problem_solving'}
+{'question': 'Làm thế nào chatbot giúp người dùng giải quyết vấn đề?', 'intent': 'problem_solving'}
+{'question': 'Bạn được tạo ra để làm nhiệm vụ gì chủ yếu?', 'intent': 'creation_reason'}
+{'question': 'Có những ứng dụng cụ thể nào mà bạn hỗ trợ?', 'intent': 'applications'}
+{'question': 'Làm thế nào bạn có thể học từ người dùng?', 'intent': 'learning_process'}
+{'question': 'Có những khả năng đặc biệt nào mà bạn có?', 'intent': 'capabilities'}
+{'question': 'Lý do tạo ra chatbot này là gì?', 'intent': 'creation_reason'}
+{'question': 'Chatbot được thiết kế để thực hiện những nhiệm vụ gì?', 'intent': 'purpose_inquiry'}
+{'question': 'Các nhu cầu nào mà chatbot này hỗ trợ?', 'intent': 'purpose'}
+{'question': 'Làm thế nào bạn đã phát triển chatbot này?', 'intent': 'creation_process'}
+{'question': 'Kỹ năng cụ thể nào mà chatbot này có?', 'intent': 'capabilities'}
+{'question': 'Bạn mong đợi gì khi phát triển chatbot này?', 'intent': 'development_purpose'}
+{'question': 'Lịch sử phát triển của bạn như thế nào?', 'intent': 'creation_reason'}
+{'question': 'Nguyên tắc hoạt động của bạn là gì?', 'intent': 'creation_reason'}
+{'question': 'Làm thế nào bạn có thể trả lời các câu hỏi của tôi?', 'intent': 'creation_reason'}
+{'question': 'Có những c��ng nghệ nào được sử dụng trong việc phát triển chatbot?', 'intent': 'creation_reason'}
+{'question': 'Có những nguồn lực nào được sử dụng để xây dựng chatbot?', 'intent': 'creation_reason'}
+{'question': 'Chatbot này có những ứng dụng cụ thể nào?', 'intent': 'usage'}
+{'question': 'Làm thế nào tôi có thể tirợ thêm từ chatbot của bạn?', 'intent': 'usage'}
+{'question': 'Chatbot này có thể giúp đỡ trong những lĩnh vực nào?', 'intent': 'usage'}
+{'question': 'Nhiệm vụ cụ thể của chatbot là gì?', 'intent': 'purpose'}
+{'question': 'Chatbot có thể thực hiện những tác vụ nào?', 'intent': 'capabilities'}
+{'question': 'Chatbot này có mục đích gì?', 'intent': 'creation_reason'}
+{'question': 'Tại sao bạn tồn tại?', 'intent': 'creation_reason'}
+{'question': 'Bạn có nhiệm vụ gì trong hệ thống chatbot?', 'intent': 'mission'}
+{'question': 'Nhiệm vụ cụ thể của bạn là gì?', 'intent': 'mission'}
+{'question': 'Chatbot làm gì trong hệ thống của nó?', 'intent': 'mission'}
+{'question': 'Nhiệm vụ cụ thể mà chatbot thực hiện là gì?', 'intent': 'mission'}
+{'question': 'Tính năng nổi bật nhất của bạn là gì?', 'intent': 'highlighted_feature'}
+{'question': 'Có điều gì làm nổi bật bạn nhất?', 'intent': 'highlighted_feature'}
+{'question': 'Có gì đặc biệt về tính năng của bạn?', 'intent': 'highlighted_feature'}
+{'question': 'Có những nhu cầu nào mà bạn được thiết kế để đáp ứng?', 'intent': 'specific_needs'}
+{'question': 'Chatbot giải quyết vấn đề gì cụ thể?', 'intent': 'specific_needs'}
+{'question': 'Có những nhu cầu chính mà chatbot của bạn hướng đến là gì?', 'intent': 'specific_needs'}
+{'question': 'Có công việc cụ thể nào mà chatbot thực hiện?', 'intent': 'specific_tasks'}
+{'question': 'Nhiệm vụ hàng ngày của chatbot là gì?', 'intent': 'specific_tasks'}
+{'question': 'Có những công việc cụ thể nào mà chatbot thường xuyên thực hiện?', 'intent': 'specific_tasks'}
+{'question': 'Lợi ích của việc sử dụng chatbot của bạn là gì so với các giải pháp khác?', 'intent': 'advantages'}
+{'question': 'Chatbot có những ưu điểm gì mà người dùng nên quan tâm?', 'intent': 'advantages'}
+{'question': 'Tại sao chatbot cần tồn tại trong hệ thống?', 'intent': 'existence_reason'}
+{'question': 'Lý do bạn được phát triển là vì điều gì?', 'intent': 'existence_reason'}
+{'question': 'Bạn có những ứng dụng chính nào?', 'intent': 'main_function'}
+{'question': 'Chatbot này được thiết kế để làm gì chính?', 'intent': 'main_function'}
+{'question': 'Làm thế nào để chatbot cập nhật thông tin mới?', 'intent': 'update_capability'}
+{'question': 'Chatbot có thể tự động cập nhật dữ liệu không?', 'intent': 'update_capability'}
+{'question': 'Những nhiệm vụ cụ thể nào mà chatbot có thể thực hiện?', 'intent': 'specific_skills'}
+{'question': 'Có những cá nhân hoặc đội ngũ nào đứng sau sự phát triển của bạn?', 'intent': 'development_team'}
+{'question': 'Tính năng đặc biệt nào làm cho chatbot nổi bật?', 'intent': 'noteworthy_features'}
+{'question': 'Những công việc cụ thể nào chatbot có thể thực hiện?', 'intent': 'capabilities'}
+{'question': 'Lý do chatbot xuất hiện là gì?', 'intent': 'existence_reason'}
+{'question': 'Tại sao nên sử dụng chatbot này?', 'intent': 'existence_reason'}
+{'question': 'Có ai đã phát triển bạn không?', 'intent': 'creation_reason'}
+{'question': 'Tính năng đặc biệt nào bạn có?', 'intent': 'features'}
+{'question': 'Những điểm đặc biệt của bạn là gì?', 'intent': 'features'}
+{'question': 'Bạn hoạt động như thế nào để đáp ứng nhu cầu của người dùng?', 'intent': 'operation'}
+{'question': 'Hệ thống của bạn làm việc như thế nào để phục vụ người dùng?', 'intent': 'operation'}
+{'question': 'Các khả năng của bạn là gì?', 'intent': 'capabilities'}
+{'question': 'Làm thế nào tôi có thể tirụi dụng chatbot của bạn?', 'intent': 'usage'}
+{'question': 'Cách tận dụng chatbot để hưởng lợi là gì?', 'intent': 'usage'}
+{'question': 'Có những gì mà tôi có thể mong đợi từ bạn?', 'intent': 'services'}
+{'question': 'Tính năng độc đáo của bạn là gì?', 'intent': 'uniqueness'}
+{'question': 'Thuộc về đội nào làm ra bạn?', 'intent': 'ownership'}
+{'question': 'Ai là chủ sở hữu của chatbot?', 'intent': 'ownership'}
+{'question': 'Làm thế nào bạn mô tả về bản thân?', 'intent': 'self_introduction'}
+{'question': 'Bạn có thể tự giới thiệu ngắn gọn về mình không?', 'intent': 'self_introduction'}
+{'question': 'Mục đích bạn được phát triển là gì?', 'intent': 'creation_reason'}
+{'question': 'Chatbot này được thiết kế để làm gì?', 'intent': 'creation_reason'}
+{'question': 'Có những tính năng gì mà chatbot của bạn có?', 'intent': 'functionality'}
+{'question': 'Các công việc mà chatbot có thể thực hiện là gì?', 'intent': 'functionality'}
+{'question': 'Có những nhiệm vụ bạn được thiết kế để thực hiện là gì?', 'intent': 'functionality'}
+{'question': 'Chatbot có thể hỗ trợ trong những lĩnh vực nào?', 'intent': 'functionality'}
+{'question': 'Làm thế nào tôi có thể tận dụng chatbot của bạn?', 'intent': 'utilization_guide'}
+{'question': 'Cách bạn được tạo ra là gì?', 'intent': 'creation_reason'}
+{'question': 'Có những lợi ích gì khi sử dụng chatbot của bạn?', 'intent': 'benefits'}
+{'question': 'Làm thế nào để mở rộng tính năng của bạn?', 'intent': 'development_potential'}
+{'question': 'Có khả năng phát triển nào khác cho bạn không?', 'intent': 'development_potential'}
+{'question': 'Bạn giải quyết những công việc gì?', 'intent': 'specific_tasks'}
+{'question': 'Nhiệm vụ cụ thể nào bạn đảm nhận?', 'intent': 'specific_tasks'}
+{'question': 'Tại sao nên sử dụng chatbot của bạn?', 'intent': 'advantages'}
+{'question': 'Có điều gì làm cho bạn nổi bật?', 'intent': 'advantages'}
+{'question': 'Làm thế nào bạn hỗ trợ người dùng?', 'intent': 'problem_solving'}
+{'question': 'Vấn đề nào mà bạn giúp người dùng giải quyết?', 'intent': 'problem_solving'}
+{'question': 'Các chức năng cơ bản mà bạn có là gì?', 'intent': 'core_features'}
+{'question': 'Có tự động hóa học hỏi nào trong bạn không?', 'intent': 'learning_capability'}
+{'question': 'Làm thế nào bạn cải thiện khả năng làm việc của mình theo thời gian?', 'intent': 'learning_capability'}
+{'question': 'Chatbot có khả năng tự nâng cấp không?', 'intent': 'learning_capability'}
+{'question': 'Làm thế nào bạn có thể học từ trải nghiệm?', 'intent': 'learning_capability'}
+{'question': 'Lý do tạo ra chatbot là gì?', 'intent': 'creation_reason'}
+{'question': 'Tại sao bạn được phát triển?', 'intent': 'creation_reason'}
+{'question': 'Người nào là người phát triển chatbot này?', 'intent': 'developer_info'}
+{'question': 'Thông tin về nhóm phát triển của bạn là gì?', 'intent': 'developer_info'}
+{'question': 'Tính chất cơ bản của chatbot là gì?', 'intent': 'general_info'}
+{'question': 'Chatbot được xây dựng để làm gì?', 'intent': 'general_info'}
+{'question': 'Tôi có thể sử dụng chatbot để làm gì?', 'intent': 'services_offered'}
+{'question': 'Các dịch vụ nào mà bạn hỗ trợ?', 'intent': 'services_offered'}
+{'question': 'Cho tôi biết về mục đích tồn tại của bạn?', 'intent': 'creation_reason'}
+{'question': 'Chatbot này được phát triển với lý do gì?', 'intent': 'creation_reason'}
+{'question': 'Có lý do gì khiến bạn xuất hiện trong hệ thống?', 'intent': 'creation_reason'}
+{'question': 'Làm thế nào bạn xuất hiện và đóng góp gì vào hệ thống?', 'intent': 'creation_reason'}
+{'question': 'Các khả năng chính của bạn là gì?', 'intent': 'features'}
+{'question': 'Có điều gì làm nổi bật bạn so với các chatbot khác?', 'intent': 'features'}
+{'question': 'Tính năng độc đáo nào mà bạn mang lại?', 'intent': 'features'}
+{'question': 'Ai là nhóm phát triển của chatbot?', 'intent': 'development_team'}
+{'question': 'Đội nào đã tạo ra bạn?', 'intent': 'development_team'}
+{'question': 'Các nhà phát triển chính của bạn là ai?', 'intent': 'development_team'}
+{'question': 'Làm thế nào để cập nhật thông tin mới cho chatbot?', 'intent': 'update_information'}
+{'question': 'Cách để chatbot cập nhật dữ liệu mới là gì?', 'intent': 'update_information'}
+{'question': 'Làm sao để đưa thông tin mới vào hệ thống của bạn?', 'intent': 'update_information'}
+{'question': 'Trong những trường hợp nào bạn có thể hỗ trợ tôi?', 'intent': 'help_capabilities'}
+{'question': 'Cách bạn có thể giúp đỡ người dùng?', 'intent': 'help_capabilities'}
+{'question': 'Điều gì đã thúc đẩy quyết định phát triển chatbot này?', 'intent': 'development_purpose'}
+{'question': 'Lý do gì khiến bạn quyết định phát triển chatbot?', 'intent': 'development_purpose'}
+{'question': 'Có lý do gì khiến chatbot là một phần quan trọng của hệ thống?', 'intent': 'system_presence'}
+{'question': 'Tại sao hệ thống cần một chatbot?', 'intent': 'system_presence'}

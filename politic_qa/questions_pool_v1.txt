@@ -1,0 +1,112 @@
+{'question': 'Trong bối cảnh đối diện với thách thức tài chính và kinh tế, ông Trương Thị Mai đã đề xuất những biện pháp cụ thể nào để thúc đẩy phát triển và giải quyết vấn đề thất nghiệp?'}
+{'question': 'Theo bạn, chính sách nào của Đảng Cộng sản Việt Nam được nhấn mạnh nhiều nhất trong nỗ lực kiểm soát lạm phát và duy trì ổn định kinh tế?'}
+{'question': 'Nguyễn Phú Trọng đã có những đóng góp gì trong việc định hình chiến lược ngoại giao của Việt Nam và tạo ra những liên kết quốc tế tích cực?'}
+{'question': 'Về mặt chính trị, ông Nguyễn Xuân Phúc đã thúc đẩy những biện pháp nào để tăng cường quyền lực của nhân dân và thúc đẩy quá trình dân chủ hóa?'}
+{'question': 'Trong bối cảnh tranh cãi về quyền lực và nguy cơ độc quyền, bạn nghĩ sao về vai trò của ông Trần Quốc Vượng trong việc duy trì sự cân bằng chính trị?'}
+{'question': 'Làm thế nào các đảng phái ngoài Đảng Cộng sản Việt Nam đang tham gia và ảnh hưởng đến quá trình ra quyết định chính trị trong hệ thống chính trị của Việt Nam?'}
+{'question': 'Bạn nghĩ sao về cách mà chính phủ đang xử lý vấn đề tham nhũng trong hệ thống chính trị Việt Nam?'}
+{'question': 'Có những điểm mạnh và yếu tố nào trong chiến lược ngoại giao của Việt Nam do Nguyễn Phú Trọng đề xuất và thúc đẩy?'}
+{'question': 'Làm thế nào chính phủ dự định giải quyết vấn đề thất nghiệp trong ngữ cảnh kinh tế khó khăn do Trương Thị Mai đã đề cập?'}
+{'question': 'Các đối tượng cụ thể nào trong chính trị Việt Nam được cho là đang ủng hộ hoặc phản đối chính sách kiểm soát lạm phát của Đảng Cộng sản Việt Nam?'}
+{'question': 'Làm thế nào các biện pháp kiểm soát lạm phát của Đảng Cộng sản Việt Nam ảnh hưởng đến doanh nghiệp và người dân thông thường?'}
+{'question': 'Theo bạn, ông Nguyễn Xuân Phúc đã đưa ra những biện pháp cụ thể nào để đối phó với các thách thức đối với tài chính và kinh tế của Việt Nam?'}
+{'question': 'Việt Nam có chấp nhận chế độ đa đảng hay không, và liệu có những bất đồng lớn nào giữa các đảng phái trong hệ thống chính trị hiện tại?'}
+{'question': 'Đối với người dân, ông Nguyễn Phú Trọng có được xem là một tổng bí thư hiệu quả và có tầm ảnh hưởng lớn trong Đảng Cộng sản Việt Nam không?'}
+{'question': 'Trong những năm gần đây, tình trạng tham nhũng ở cấp quyền lực địa phương ở Việt Nam có đang gây ra ảnh hưởng lớn đến chính sách và phát triển kinh tế xã hội không?'}
+{'question': 'Trong nỗ lực kiểm soát lạm phát và duy trì ổn định kinh tế, bạn nghĩ rằng Đảng Cộng sản Việt Nam nhấn mạnh vào chính sách nào nhất?'}
+{'question': 'Trong đàm phán thương mại quốc tế, vai trò của Trần Quốc Vượng là gì trong việc bảo vệ lợi ích kinh tế và chính trị của Việt Nam?'}
+{'question': 'Trong thời kỳ hiện nay, liệu ông Nguyễn Phú Trọng có thể giữ vững vị trí lãnh đạo trong Đảng Cộng sản Việt Nam và ảnh hưởng như thế nào đến đường lối chính trị của đất nước?'}
+{'question': 'Theo bạn, tầm quan trọng của quốc hội trong việc đưa ra quyết định chính trị tại Việt Nam so với vai trò của Ban Bí thư trong Đảng Cộng sản Việt Nam là như thế nào?'}
+{'question': 'Trong bối cảnh quốc tế đang thay đổi nhanh chóng, ông Võ Văn Thưởng đóng vai trò như thế nào trong việc định hình chiến lược ngoại giao và an ninh quốc gia của Việt Nam?'}
+{'question': 'Liệu có sự thay đổi đáng kể trong chính sách về tự do ngôn luận và quyền lực truyền thông tại Việt Nam dưới thời lãnh đạo của ông Võ Văn Thưởng hay không?'}
+{'question': 'Trong ngữ cảnh đối đầu chính trị giữa Việt Nam và Trung Quốc về vấn đề biển Đông, bạn nghĩ rằng chính sách ngoại giao của ông Lê Minh Khái sẽ ra sao để bảo vệ lợi ích quốc gia?'}
+{'question': 'Ông Phạm Minh Chính, trong tình hình kinh tế thế giới không chắc chắn, liệu có áp dụng những biện pháp gì để đảm bảo ổn định kinh tế nội địa và tăng cường hợp tác quốc tế?'}
+{'question': 'Trong việc đối phó với thách thức của cuộc cách mạng công nghiệp 4.0, bạn nghĩ rằng ông Đinh Tiến Dũng sẽ ưu tiên chính sách nào để đảm bảo phát triển bền vững của Việt Nam?'}
+{'question': 'Với vị trí làm trưởng ban Bí thư, ông Trương Thị Mai có thể ảnh hưởng đến chính sách giáo dục và đào tạo tại Việt Nam như thế nào?'}
+{'question': 'Có sự thay đổi nào trong cách tiếp cận và quản lý tham nhũng dưới thời lãnh đạo của ông Trần Cẩm Tú hay không, và điều này ảnh hưởng thế nào đến lòng tin của người dân vào chính quyền?'}
+{'question': 'Trong bối cảnh đại dịch COVID-19, ông Phạm Bình Minh đã đề xuất những chính sách nào để bảo vệ sức khỏe của cộng đồng và duy trì ổn định kinh tế?'}
+{'question': 'Một số quan chức cấp cao được cáo buộc lợi dụng chức vụ. Ông Nguyễn Phú Trọng đã đưa ra các biện pháp nào để đảm bảo tính minh bạch và trách nhiệm trong việc xử lý những vấn đề này?'}
+{'question': 'Trong bối cảnh tăng cường quan hệ đối đầu với Trung Quốc, ông Trần Quốc Vượng đưa ra những đề xuất cụ thể nào về chính sách an ninh quốc gia để bảo vệ biên giới và chủ quyền lãnh thổ Việt Nam?'}
+{'question': 'Làm thế nào ông Hoàng Trung Hải định hình chiến lược kinh tế để đối mặt với thách thức từ các đối tác thương mại quốc tế và bảo vệ lợi ích kinh tế của Việt Nam?'}
+{'question': 'Trong ngữ cảnh cạnh tranh chính trị nội bộ, liệu ông Võ Văn Thưởng có thể giữ vững vị trí chủ tịch Quốc hội và ảnh hưởng đến quyết định lớn trong hệ thống chính trị?'}
+{'question': 'Trong bối cảnh đối thoại song phương ngày càng quan trọng, liệu ông Phạm Minh Chính có đưa ra các chiến lược cụ thể để thúc đẩy quan hệ ngoại giao của Việt Nam hay không?'}
+{'question': 'Vai trò của bà Nguyễn Thị Kim Ngân trong việc thúc đẩy quyền lợi và vai trò của phụ nữ trong chính trị Việt Nam là gì?'}
+{'question': 'Ông Lê Minh Khái đã đưa ra những biện pháp nào để giảm thiểu tham nhũng và tăng cường minh bạch trong quản lý chính trị ở cấp địa phương?'}
+{'question': 'Trong ngữ cảnh đối đầu với các thách thức an ninh toàn cầu, ông Phan Văn Giang đã đưa ra những chiến lược nào để bảo vệ quốc gia Việt Nam?'}
+{'question': 'Trong bối cảnh chính trị quốc tế biến động, ông Vương Đình Huệ đang thực hiện những biện pháp nào để bảo vệ và củng cố địa vị kinh tế của Việt Nam?'}
+{'question': 'Ông Võ Văn Thưởng đang đóng vai trò gì trong việc định hình chính sách văn hóa và nghệ thuật của Đảng Cộng sản Việt Nam?'}
+{'question': 'Trong thời kỳ giữ chức vụ Bí thư, ông Trọng đã đưa ra những biện pháp nào nhằm củng cố và mở rộng quan hệ ngoại giao của Việt Nam?'}
+{'question': 'Làm thế nào ông Phạm Minh Chính đang xử lý mối quan hệ giữa chính phủ và các tổ chức tư nhân để thúc đẩy phát triển kinh tế?'}
+{'question': 'Nhìn chung, thái độ của Đảng Cộng sản Việt Nam đối với quốc tế đã thay đổi như thế nào dưới tác động của các thách thức và cơ hội đa dạng?'}
+{'question': 'Trong tình hình hiện nay, ông Trần Quốc Vượng đang đảm nhận vai trò gì trong việc giải quyết tranh chấp biên giới và biển đảo của Việt Nam với các quốc gia láng giềng?'}
+{'question': 'Làm thế nào Đảng Cộng sản Việt Nam đang đối mặt với thách thức từ các phong trào dân chủ và nhóm lợi ích dân sự đòi hỏi sự đa đảng hóa?'}
+{'question': 'Trong chiến lược phòng ngự quốc phòng, ông Phan Văn Giang đã thúc đẩy những thay đổi nào để đảm bảo an ninh quốc gia trong bối cảnh biến động toàn cầu?'}
+{'question': 'Vai trò của ông Trần Thanh Mẫn trong việc phát triển và thúc đẩy các mối quan hệ kinh tế đối ngoại của Việt Nam là gì?'}
+{'question': 'Trong thời gian gần đây, vai trò của Nguyễn Phú Trọng trong Đảng Cộng sản Việt Nam như thế nào? Ông có giữ chức tổng bí thư hay không? Nếu không, người kế nhiệm có thể là ai?'}
+{'question': 'Chủ tịch nước hiện tại có phải là ông Võ Văn Thưởng hay không?'}
+{'question': 'Trong bối cảnh chính trị phân hóa, ông Trần Quốc Vượng đang có vai trò gì trong việc thương lượng và duy trì ổn định chính trị nội bộ?'}
+{'question': 'Làm thế nào ông Nguyễn Xuân Phúc ảnh hưởng đến chính sách kinh tế và phát triển của Việt Nam qua các biện pháp chủ động hay quyết định chính sách?'}
+{'question': 'Trong ngữ cảnh đa đảng, bạn nghĩ rằng các đảng phái khác nhau đưa ra những quan điểm chính trị nào về quản lý tài nguyên và bảo vệ môi trường tại Việt Nam?'}
+{'question': 'Trong việc tái cơ cấu chính phủ, ông Phạm Minh Chính đang đề xuất những biện pháp cụ thể nào để tăng cường hiệu quả hoạt động của cơ quan nhà nước?'}
+{'question': 'Có những biện pháp chính sách nào đang được đề xuất bởi ông Võ Văn Thưởng để giảm thiểu khoảng cách kinh tế-xã hội giữa các vùng miền ở Việt Nam?'}
+{'question': 'Làm thế nào ông Trần Quốc Vượng đang thúc đẩy các chính sách để tăng cường tranh thủ công bằng và sự công bằng xã hội trong nền kinh tế Việt Nam?'}
+{'question': 'Trong việc đối mặt với áp lực từ các tổ chức đối lập, ông Nguyễn Phú Trọng đã đề xuất các biện pháp nào để duy trì ổn định chính trị nội bộ của Đảng Cộng sản Việt Nam?'}
+{'question': 'Những hành động cụ thể nào của ông Phạm Bình Minh đang được thực hiện để củng cố vai trò của Việt Nam trong cộng đồng quốc tế?'}
+{'question': 'Theo bạn, đối với ông Võ Văn Thưởng, tầm quan trọng của việc bảo tồn di sản văn hóa và lịch sử là như thế nào trong việc củng cố độc lập quốc gia?'}
+{'question': 'Trong bối cảnh đa đảng, ông Trương Thị Mai làm thế nào để đảm bảo sự đa dạng chính trị và phổ quát hóa quyền lợi của các đảng phái khác?'}
+{'question': 'Theo bạn, vai trò của ông Đinh La Thăng trong việc đẩy mạnh công nghiệp hóa và hiện đại hóa kinh tế Việt Nam là gì?'}
+{'question': 'Làm thế nào ông Trần Quốc Vượng đang thúc đẩy hợp tác quốc tế để đảm bảo lợi ích kinh tế và chính trị của Việt Nam trên trường quốc tế?'}
+{'question': 'Ông Võ Văn Thưởng đã đề xuất những biện pháp nào để cải thiện hệ thống giáo dục, đáp ứng yêu cầu của thời đại hiện đại?'}
+{'question': 'Nhận định của ông Võ Văn Thưởng về vai trò và ảnh hưởng của ông Đinh La Thăng trong bối cảnh nỗ lực chống tham nhũng.'}
+{'question': 'Đánh giá chiến lược của ông Võ Văn Thưởng đối với chính sách văn hóa và nghệ thuật, nhằm thể hiện bản sắc văn hóa dân tộc Việt Nam.'}
+{'question': 'Chiến lược của ông Phạm Minh Chính trong việc thúc đẩy quan hệ ngoại giao của Việt Nam trong bối cảnh đối thoại song phương ngày càng quan trọng.'}
+{'question': 'Việt Nam có chấp nhận chế độ đa đảng hay vẫn duy trì chế độ đơn đảng?'}
+{'question': 'Ông Võ Văn Thưởng có đang giữ chức vụ Chủ tịch nước hay không?'}
+{'question': 'Với tư cách là một chính trị gia nổi tiếng, ông Trương Hòa Bình đã đưa ra những đề xuất cụ thể nào để cải thiện chính sách giáo dục ở Việt Nam?'}
+{'question': 'Trong bối cảnh đối thoại và đối đầu giữa các đảng phái, ông Phạm Minh Chính đã có những bước tiến nào để thúc đẩy hòa bình và ổn định trong khu vực?'}
+{'question': 'Nhiệm kỳ mới của ông Võ Văn Thưởng làm Chủ tịch Quốc hội, ông ta đã đề xuất những thay đổi nào trong việc củng cố quyền lực và ổn định chính trị?'}
+{'question': 'Ông Nguyễn Xuân Thành, một trong những nhân vật nổi bật của Đảng Dân chủ Việt Nam, đã đề xuất những biện pháp nào để tăng cường tranh cử công bằng và minh bạch?'}
+{'question': 'Nhận định của bạn về tình trạng tham nhũng đang diễn ra ở vùng quê và ảnh hưởng như thế nào đến hệ thống chính trị hiện tại?'}
+{'question': 'Làm thế nào các chính trị gia cấp cao trong đảng Cộng sản Việt Nam xử lý những đánh giá tiêu cực từ công chúng về chính sách và quyết định của họ?'}
+{'question': 'Trong quá trình đối đầu với các đối tượng cực đoan, liệu ông Trần Quốc Vượng có đưa ra các chiến lược mới hay không để duy trì ổn định chính trị?'}
+{'question': 'Những quyết định chính sách của ông Đinh La Thăng trong vai trò lãnh đạo tại Hội đồng Nhân dân TP.HCM đã thay đổi cách thức quản lý và phát triển của thành phố như thế nào?'}
+{'question': 'Làm thế nào ông Phạm Minh Chính đã tăng cường vai trò và quyền lực của Đảng Cộng sản Việt Nam trong các quyết định chính sách quan trọng?'}
+{'question': 'Nhận định về vai trò và ảnh hưởng của Chủ tịch nước Nguyễn Phú Trọng trong Đảng Cộng sản Việt Nam?'}
+{'question': 'Làm thế nào ông Trần Đại Quang, người từng giữ chức Chủ tịch nước, đã ảnh hưởng đến hệ thống chính trị Việt Nam?'}
+{'question': 'Tại sao có sự tranh cãi về chính sách kiểm soát lạm phát của Đảng Cộng sản Việt Nam, và những đối tượng chính trị nào đang đặt ra những ý kiến khác nhau về vấn đề này?'}
+{'question': 'Đánh giá về sự đa đảng hóa trong chính trị Việt Nam và những chính trị gia nào ủng hộ hoặc phản đối ý kiến này?'}
+{'question': 'Theo quan điểm của ông Trần Hồng Hà, Bí thư Thành ủy Hà Nội, chính trị gia nên đóng góp như thế nào vào việc giải quyết các thách thức về môi trường đô thị và phát triển bền vững?'}
+{'question': 'Các biện pháp nào được Bí thư Đinh La Thăng đề xuất để kiểm soát và giảm thiểu tình trạng ô nhiễm môi trường ở các thành phố lớn của Việt Nam?'}
+{'question': 'Ông Võ Văn Thưởng đã đưa ra gói chính sách nào để hỗ trợ doanh nghiệp nhỏ và vừa, đặc biệt là trong bối cảnh khó khăn do đại dịch COVID-19?'}
+{'question': 'Làm thế nào chính sách nước ngoại của Việt Nam dưới thời lãnh đạo của ông Phạm Bình Minh đóng góp vào việc thúc đẩy hòa bình và hợp tác quốc tế?'}
+{'question': 'Chính sách giáo dục của Việt Nam dưới sự lãnh đạo của ông Nguyễn Kim Sơn có những thay đổi đáng chú ý nào để nâng cao chất lượng giáo dục?'}
+{'question': 'Tầm quan trọng của ông Trần Công Trực trong việc thúc đẩy hợp tác kinh tế giữa Việt Nam và các đối tác quốc tế như thế nào, đặc biệt là trong bối cảnh biến động thị trường toàn cầu?'}
+{'question': 'Ông Trần Đại Quang đã có những ảnh hưởng gì đối với chính trị Việt Nam trong thời kỳ ông giữ chức vụ Tổng Bí thư Đảng Cộng sản Việt Nam?'}
+{'question': 'Đánh giá về sự phân hóa chính trị trong Đảng Cộng sản Việt Nam và vai trò của ông Võ Văn Thưởng trong việc đối phó với những thách thức này là như thế nào?'}
+{'question': 'Trong bối cảnh đa dạng chính trị thế giới, ông Phạm Minh Chính đang thúc đẩy những biện pháp nào để tăng cường tầm ảnh hưởng của Việt Nam trên trường quốc tế?'}
+{'question': 'Phê bình ông Nguyễn Xuân Phúc trong việc đối phó với những thách thức kinh tế và xã hội nội bộ của Việt Nam.'}
+{'question': 'Tại sao chính sách đối ngoại của Việt Nam dường như chú trọng vào việc tăng cường quan hệ với các đối tác quốc tế, và ông Lê Thanh Nghị đang đóng một vai trò quan trọng trong quá trình này như thế nào?'}
+{'question': 'Ông Hoàng Trung Hải đã đưa ra những đề xuất cụ thể nào để cải thiện tình hình nhân quyền và tự do dân chủ trong nước?'}
+{'question': 'Trong bối cảnh tranh chấp về Biển Đông, ông Phan Bội Châu đã tham gia như thế nào trong việc đề xuất và thúc đẩy các giải pháp hòa bình và công bằng cho tình hình này?'}
+{'question': 'So sánh chiến lược của ông Nguyễn Xuân Phúc và ông Trần Quốc Vượng đối với phát triển kinh tế và giảm độ chệch giàu nghèo tại Việt Nam.'}
+{'question': 'Ông Đinh La Thăng đang có vai trò gì trong việc thúc đẩy các chính sách môi trường và năng lượng tái tạo tại Việt Nam?'}
+{'question': 'Trong bối cảnh tranh cãi về chính trị tại Việt Nam, ông Nguyễn Phú Trọng đã đưa ra những biện pháp nào để duy trì sự ổn định và thống nhất trong Đảng Cộng sản Việt Nam?'}
+{'question': 'Ông Trần Quốc Vượng đang áp dụng những chiến lược nào để tăng cường quan hệ đối ngoại của Việt Nam, đặc biệt là trong bối cảnh căng thẳng vùng biển và quốc tế?'}
+{'question': 'Trong việc tái cơ cấu chính phủ, ông Võ Văn Thưởng đề xuất những phương án cụ thể nào để cải thiện khả năng đáp ứng và phục vụ của các cơ quan nhà nước?'}
+{'question': 'Có sự đồng thuận hay bất đồng lớn nào giữa ông Nguyễn Phú Trọng và ông Nguyễn Xuân Phúc về các chiến lược kinh tế và đối ngoại của Việt Nam?'}
+{'question': 'Ông Trần Quốc Vượng đã đề xuất những chính sách nào để đối phó với áp lực đa dạng chính trị thế giới đồng thời bảo vệ chủ quyền và lợi ích quốc gia?'}
+{'question': 'Trong thời kỳ đối mặt với thách thức từ các quốc gia hàng xóm, ông Phạm Bình Minh đang thúc đẩy những biện pháp ngoại giao nào để đảm bảo an ninh quốc gia và ổn định khu vực?'}
+{'question': 'Làm thế nào các quyết định của ông Võ Văn Thưởng về chính sách thuế và tài chính có ảnh hưởng đến phát triển kinh tế và xã hội của Việt Nam?'}
+{'question': 'Có những thay đổi cụ thể nào trong chính sách lao động và giáo dục được đề xuất bởi ông Nguyễn Xuân Phúc để nâng cao năng suất lao động và phát triển nguồn nhân lực?'}
+{'question': 'Trong bối cảnh đa dạng chính trị thế giới, liệu có sự phân rã hoặc đồng thuận lớn nào trong các quyết định đối ngoại của Đảng Cộng sản Việt Nam?'}
+{'question': 'Có những biện pháp cụ thể nào đang được đề xuất bởi ông Hoàng Bình Quân để củng cố vị thế của Việt Nam trong các tổ chức quốc tế như Liên Hiệp Quốc?'}
+{'question': 'Làm thế nào đảng Cộng sản Việt Nam quản lý mối quan hệ với các tổ chức đa đảng và xã hội dân sự trong nước?'}
+{'question': 'Cuộc đối thoại và đối đầu chính tr�� giữa đảng Cộng sản Việt Nam và các đảng phái khác như Đảng Dân chủ Xã hội Việt Nam diễn ra như thế nào?'}
+{'question': 'Vai trò của ông Võ Văn Thưởng trong việc đề xuất và thúc đẩy chính sách giảm thiểu khoảng cách kinh tế-xã hội giữa các vùng miền ở Việt Nam là gì?'}
+{'question': 'Cách mà chính phủ đang đối mặt và giải quyết vấn đề tham nhũng trong hệ thống chính trị Việt Nam có đáp ứng đúng mong đợi của ông Nguyễn Xuân Phúc không?'}
+{'question': 'Trong bối cảnh đại dịch COVID-19, ông Phạm Minh Chính đã đưa ra những chính sách nào để bảo vệ sức khỏe cộng đồng và duy trì ổn định kinh tế?'}
+{'question': 'Làm thế nào ông Trần Đại Quang, người từng giữ chức Chủ tịch nước, đã để lại ảnh hưởng trong hệ thống chính trị Việt Nam?'}
+{'question': 'Cuộc biểu tình chống chính quyền tại thành phố Hồ Chí Minh vào ngày 9 tháng 6 năm 2014 đã tác động như thế nào đến chính trị và xã hội Việt Nam?'}
+{'question': 'Những biện pháp cụ thể nào ông Phạm Minh Chính đang đề xuất để tái cơ cấu chính phủ và tăng cường hiệu quả hoạt động của cơ quan nhà nước?'}
+{'question': 'Làm thế nào ông Nguyễn Xuân Phúc ảnh hưởng đến chính sách kinh tế và phát triển của Việt Nam qua các quyết định chính sách chủ động?'}
+{'question': 'Chế độ đơn đảng ở Việt Nam có những ưu điểm và hạn chế gì, dựa trên quan điểm của các chính trị gia như ông Phạm Bình Minh?'}

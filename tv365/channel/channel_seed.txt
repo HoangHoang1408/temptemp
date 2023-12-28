@@ -1,0 +1,11 @@
+mở {channel_name} lúc {giờ} {ngày}
+lịch chiếu {channel_name} {ngày} là gì?
+mở kênh {channel_name}
+{channel_name}
+tôi muốn xem {channel_name}
+tôi muốn xem {channel_name} lúc {giờ} {ngày}
+tìm {channel_name} lúc {giờ} {ngày}
+trên {channel_name} có gì hay không?
+trên {channel_name} có gì hay không lúc {giờ} {ngày}?
+trực tiếp {channel_name} lúc {giờ} {ngày}
+trực tiếp {channel_name}

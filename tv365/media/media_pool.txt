@@ -1,0 +1,84 @@
+{'template': 'tôi muốn xem {ten_chuong_trinh}', 'intent': 'mo_chuong_trinh'}
+{'template': 'phát chương trình {ten_chuong_trinh}', 'intent': 'mo_chuong_trinh'}
+{'template': 'chương trình {the_loai_chuong_trinh} nào có diễn viên {ten_dien_vien}', 'intent': 'tim_chuong_trinh'}
+{'template': 'mở giúp tôi chương trình {ten_chuong_trinh} bởi đạo diễn {ten_dao_dien}', 'intent': 'mo_chuong_trinh'}
+{'template': 'tìm kiếm chương trình {the_loai_chuong_trinh} của {ten_dien_vien}', 'intent': 'tim_chuong_trinh'}
+{'template': 'có chương trình nào thuộc thể loại {the_loai_chuong_trinh} không?', 'intent': 'tim_chuong_trinh'}
+{'template': 'cho xem chương trình {ten_chuong_trinh}', 'intent': 'mo_chuong_trinh'}
+{'template': 'tìm chương trình {the_loai_chuong_trinh} mới nhất', 'intent': 'tim_chuong_trinh'}
+{'template': 'đưa tôi đến chương trình {ten_chuong_trinh}', 'intent': 'mo_chuong_trinh'}
+{'template': 'mở chương trình có {ten_dien_vien}', 'intent': 'mo_chuong_trinh'}
+{'template': 'tôi muốn tìm kiếm chương trình {the_loai_chuong_trinh}', 'intent': 'tim_chuong_trinh'}
+{'template': 'cần tìm chương trình {ten_chuong_trinh} nhanh', 'intent': 'tim_chuong_trinh'}
+{'template': '{ten_dien_vien}', 'intent': 'tim_chuong_trinh'}
+{'template': '{ten_chuong_trinh}', 'intent': 'mo_chuong_trinh'}
+{'template': 'tôi muốn xem các chương trình có diễn viên {ten_dien_vien}', 'intent': 'tim_chuong_trinh'}
+{'template': 'Tìm giúp tôi chương trình {ten_chuong_trinh}', 'intent': 'tim_chuong_trinh'}
+{'template': 'tìm kiếm chương trình có diễn viên {ten_dien_vien}', 'intent': 'tim_chuong_trinh'}
+{'template': 'tôi muốn xem các chương trình thuộc thể loại {the_loai_chuong_trinh}', 'intent': 'tim_chuong_trinh'}
+{'template': 'tìm kiếm chương trình theo thể loại {the_loai_chuong_trinh}', 'intent': 'tim_chuong_trinh'}
+{'template': '{the_loai_chuong_trinh}', 'intent': 'tim_chuong_trinh'}
+{'template': '{ten_dien_vien}, tìm giúp tôi chương trình nào hay', 'intent': 'tim_chuong_trinh'}
+{'template': 'bạn có thể mở chương trình có {ten_dien_vien} không?', 'intent': 'mo_chuong_trinh'}
+{'template': 'cần tìm chương trình {ten_chuong_trinh} ngay bây giờ', 'intent': 'tim_chuong_trinh'}
+{'template': 'mình muốn xem chương trình {ten_chuong_trinh}', 'intent': 'mo_chuong_trinh'}
+{'template': 'Xin tìm chương trình {ten_chuong_trinh} cho tôi', 'intent': 'tim_chuong_trinh'}
+{'template': 'Xin mở chương trình {ten_chuong_trinh} được đạo diễn bởi {ten_dao_dien}', 'intent': 'mo_chuong_trinh'}
+{'template': 'Bạn có thể tìm giúp tôi chương trình có {ten_dien_vien} không?', 'intent': 'tim_chuong_trinh'}
+{'template': 'Tôi muốn xem chương trình nào thú vị có {ten_dien_vien}', 'intent': 'mo_chuong_trinh'}
+{'template': 'Tìm giúp tôi chương trình nào thuộc thể loại {the_loai_chuong_trinh}', 'intent': 'tim_chuong_trinh'}
+{'template': '{ten_dien_vien}, bạn có thể mở chương trình nào hay không?', 'intent': 'mo_chuong_trinh'}
+{'template': 'Cho xem {ten_chuong_trinh}', 'intent': 'mo_chuong_trinh'}
+{'template': 'Tôi muốn xem phim có sự tham gia của {ten_dien_vien}.', 'intent': 'tim_chuong_trinh'}
+{'template': 'Tôi muốn xem {ten_chuong_trinh} ngay bây giờ.', 'intent': 'tim_chuong_trinh'}
+{'template': 'Mở giúp tôi chương trình {ten_chuong_trinh} do {ten_dao_dien} đạo diễn.', 'intent': 'mo_chuong_trinh'}
+{'template': '{the_loai_chuong_trinh} là thể loại tôi đang tìm kiếm.', 'intent': 'tim_chuong_trinh'}
+{'template': 'Tìm cho tôi các chương trình thuộc thể loại {the_loai_chuong_trinh}.', 'intent': 'tim_chuong_trinh'}
+{'template': 'Có phim nào có sự góp mặt của diễn viên {ten_dien_vien} không?', 'intent': 'tim_chuong_trinh'}
+{'template': 'Tôi muốn xem chương trình có tên là {ten_chuong_trinh}.', 'intent': 'tim_chuong_trinh'}
+{'template': 'Mở ngay chương trình {ten_chuong_trinh} được phát sóng.', 'intent': 'mo_chuong_trinh'}
+{'template': 'Mở trực tiếp chương trình {ten_chuong_trinh}.', 'intent': 'mo_chuong_trinh'}
+{'template': 'Tìm cho tôi các chương trình có sự tham gia của diễn viên {ten_dien_vien}.', 'intent': 'tim_chuong_trinh'}
+{'template': 'Các chương trình thuộc thể loại {the_loai_chuong_trinh} là gì?', 'intent': 'tim_chuong_trinh'}
+{'template': 'Mở chương trình có sự tham gia của {ten_dien_vien}.', 'intent': 'mo_chuong_trinh'}
+{'template': 'Chương trình nào có diễn viên {ten_dien_vien}', 'intent': 'tim_chuong_trinh'}
+{'template': 'muốn tìm chương trình có tên {ten_chuong_trinh}', 'intent': 'tim_chuong_trinh'}
+{'template': 'Chương trình nào có thể loại {the_loai_chuong_trinh}', 'intent': 'tim_chuong_trinh'}
+{'template': 'Mở trực tiếp chương trình', 'intent': 'mo_chuong_trinh'}
+{'template': 'Tìm chương trình có diễn viên {ten_dien_vien}', 'intent': 'tim_chuong_trinh'}
+{'template': '{ten_chuong_trinh}', 'intent': 'tim_chuong_trinh'}
+{'template': 'Tìm kiếm chương trình {the_loai_chuong_trinh}', 'intent': 'tim_chuong_trinh'}
+{'template': 'Tìm chương trình {ten_chuong_trinh} nhanh', 'intent': 'tim_chuong_trinh'}
+{'template': 'Mở chương trình có {ten_dien_vien} không?', 'intent': 'mo_chuong_trinh'}
+{'template': 'Chương trình nào có diễn viên {ten_dien_vien}', 'intent': 'tim_chuong_trinh'}
+{'template': 'Cần tìm chương trình {ten_chuong_trinh} nhanh', 'intent': 'tim_chuong_trinh'}
+{'template': 'Tôi muốn xem {ten_chuong_trinh}', 'intent': 'mo_chuong_trinh'}
+{'template': 'Tôi muốn các chương trình có diễn viên {ten_dien_vien}', 'intent': 'tim_chuong_trinh'}
+{'template': 'Tôi muốn xem chương trình có sự góp mặt của diễn viên {ten_dien_vien}', 'intent': 'tim_chuong_trinh'}
+{'template': 'Xin mở chương trình {ten_chuong_trinh}', 'intent': 'mo_chuong_trinh'}
+{'template': '{ten_dien_vien} đóng trong phim nào?', 'intent': 'tim_chuong_trinh'}
+{'template': 'Tôi muốn xem {ten_chuong_trinh}', 'intent': 'tim_chuong_trinh'}
+{'template': 'Có chương trình nào có {ten_dien_vien} không?', 'intent': 'tim_chuong_trinh'}
+{'template': 'Tìm giúp tôi chương trình nào hay có {ten_dien_vien}', 'intent': 'tim_chuong_trinh'}
+{'template': 'Tìm giúp tôi chương trình {ten_chuong_trinh}', 'intent': 'tim_chuong_trinh'}
+{'template': 'Chương trình nào thuộc thể loại {the_loai_chuong_trinh}', 'intent': 'tim_chuong_trinh'}
+{'template': '{ten_dien_vien}', 'intent': 'tim_chuong_trinh'}
+{'template': 'chương trình {the_loai_chuong_trinh} nào có diễn viên {ten_dien_vien}', 'intent': 'tim_chuong_trinh'}
+{'template': 'chương trình nào có diễn viên {ten_dien_vien}', 'intent': 'tim_chuong_trinh'}
+{'template': 'phát chương trình {ten_chuong_trinh}', 'intent': 'mo_chuong_trinh'}
+{'template': '{ten_chuong_trinh}', 'intent': 'mo_chuong_trinh'}
+{'template': 'Mở chương trình có {ten_dien_vien} không?', 'intent': 'mo_chuong_trinh'}
+{'template': 'Cần tìm chương trình {ten_chuong_trinh} nhanh', 'intent': 'tim_chuong_trinh'}
+{'template': 'Xin mở chương trình {ten_chuong_trinh}', 'intent': 'mo_chuong_trinh'}
+{'template': 'cần tìm chương trình {ten_chuong_trinh} ngay bây giờ', 'intent': 'tim_chuong_trinh'}
+{'template': 'tôi muốn tìm kiếm chương trình {the_loai_chuong_trinh}', 'intent': 'tim_chuong_trinh'}
+{'template': 'phát chương trình {ten_chuong_trinh}', 'intent': 'mo_chuong_trinh'}
+{'template': 'chương trình {the_loai_chuong_trinh} nào có diễn viên {ten_dien_vien}', 'intent': 'tim_chuong_trinh'}
+{'template': 'mở chương trình {ten_chuong_trinh}', 'intent': 'mo_chuong_trinh'}
+{'template': 'tìm giúp tôi chương trình {ten_chuong_trinh}', 'intent': 'tim_chuong_trinh'}
+{'template': '{ten_dien_vien} đóng trong phim nào?', 'intent': 'tim_chuong_trinh'}
+{'template': 'tôi muốn tìm kiếm chương trình {the_loai_chuong_trinh}', 'intent': 'tim_chuong_trinh'}
+{'template': 'Chương trình nào có diễn viên {ten_dien_vien}', 'intent': 'tim_chuong_trinh'}
+{'template': 'Xin tìm chương trình {ten_chuong_trinh} cho tôi', 'intent': 'tim_chuong_trinh'}
+{'template': '{ten_dien_vien}, tìm giúp tôi chương trình nào hay', 'intent': 'tim_chuong_trinh'}
+{'template': 'Tôi muốn xem chương trình có tên là {ten_chuong_trinh}.', 'intent': 'mo_chuong_trinh'}
