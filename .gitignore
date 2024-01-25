@@ -1,0 +1,9 @@
+# ignore all the txt, parquet, and csv, json, jsonl files
+**/*.txt
+**/*.parquet
+**/*.csv
+**/*.json
+**/*.jsonl
+**/.DS_Store
+**/*.zip
+
